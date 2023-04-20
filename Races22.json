@@ -1,0 +1,1529 @@
+{
+    "Amstel Gold Race": {
+        "category": "Men Elite",
+        "edition": 56,
+        "enddate": "2022-04-10",
+        "is_one_day_race": true,
+        "name": "Amstel Gold Race",
+        "nationality": "NL",
+        "normalized_relative_url": "race/amstel-gold-race/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-04-10",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "BEMER Cyclassics": {
+        "category": "Men Elite",
+        "edition": 25,
+        "enddate": "2022-08-21",
+        "is_one_day_race": true,
+        "name": "BEMER Cyclassics",
+        "nationality": "DE",
+        "normalized_relative_url": "race/cyclassics-hamburg/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-08-21",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Benelux Tour": {
+        "category": "Men Elite",
+        "edition": 18,
+        "enddate": "2022-09-04",
+        "is_one_day_race": false,
+        "name": "Benelux Tour",
+        "nationality": "BE",
+        "normalized_relative_url": "race/benelux-tour/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-29",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 |  - Lelystad",
+                "stage_url": "race/benelux-tour/2022/stage-1"
+            },
+            {
+                "date": "08-30",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Sluis - Sluis",
+                "stage_url": "race/benelux-tour/2022/stage-2"
+            },
+            {
+                "date": "08-31",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Blankenberge - Ardooie",
+                "stage_url": "race/benelux-tour/2022/stage-3"
+            },
+            {
+                "date": "09-01",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 |  - Peer",
+                "stage_url": "race/benelux-tour/2022/stage-4"
+            },
+            {
+                "date": "09-02",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 | Riemst - Bilzen",
+                "stage_url": "race/benelux-tour/2022/stage-5"
+            },
+            {
+                "date": "09-03",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 6 |  - ",
+                "stage_url": "race/benelux-tour/2022/stage-6"
+            },
+            {
+                "date": "09-04",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 7 | Aalter - Geraardsbergen",
+                "stage_url": "race/benelux-tour/2022/stage-7"
+            }
+        ],
+        "startdate": "2022-08-29",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Bretagne Classic - Ouest-France": {
+        "category": "Men Elite",
+        "edition": 86,
+        "enddate": "2022-08-28",
+        "is_one_day_race": true,
+        "name": "Bretagne Classic - Ouest-France",
+        "nationality": "FR",
+        "normalized_relative_url": "race/bretagne-classic/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-08-28",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Cadel Evans Great Ocean Road Race": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2022-01-30",
+        "is_one_day_race": true,
+        "name": "Cadel Evans Great Ocean Road Race",
+        "nationality": "AU",
+        "normalized_relative_url": "race/great-ocean-race/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-01-30",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Crit\u00e9rium du Dauphin\u00e9": {
+        "category": "Men Elite",
+        "edition": 74,
+        "enddate": "2022-06-12",
+        "is_one_day_race": false,
+        "name": "Crit\u00e9rium du Dauphin\u00e9",
+        "nationality": "FR",
+        "normalized_relative_url": "race/dauphine/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "06-05",
+                "distance": 191.8,
+                "profile_icon": "p4",
+                "stage_name": "Stage 1 | La Voulte-sur-Rh\u00f4ne - Beauchastel",
+                "stage_url": "race/dauphine/2022/stage-1"
+            },
+            {
+                "date": "06-06",
+                "distance": 169.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Saint-P\u00e9ray - Brives-Charensac",
+                "stage_url": "race/dauphine/2022/stage-2"
+            },
+            {
+                "date": "06-07",
+                "distance": 169.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Saint-Paulien - Chastreix-Sancy",
+                "stage_url": "race/dauphine/2022/stage-3"
+            },
+            {
+                "date": "06-08",
+                "distance": 31.9,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 (ITT) | Montbrison - La B\u00e2tie d\u2019Urf\u00e9",
+                "stage_url": "race/dauphine/2022/stage-4"
+            },
+            {
+                "date": "06-09",
+                "distance": 162.3,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Thizy-les-Bourgs - Chaintr\u00e9",
+                "stage_url": "race/dauphine/2022/stage-5"
+            },
+            {
+                "date": "06-10",
+                "distance": 196.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Rives - Gap",
+                "stage_url": "race/dauphine/2022/stage-6"
+            },
+            {
+                "date": "06-11",
+                "distance": 134.8,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Saint-Chaffrey - Vaujany",
+                "stage_url": "race/dauphine/2022/stage-7"
+            },
+            {
+                "date": "06-12",
+                "distance": 138.8,
+                "profile_icon": "p5",
+                "stage_name": "Stage 8 | Saint-Alban-Leysse - Plateau de Salaison",
+                "stage_url": "race/dauphine/2022/stage-8"
+            }
+        ],
+        "startdate": "2022-06-05",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Donostia San Sebastian Klasikoa": {
+        "category": "Men Elite",
+        "edition": 42,
+        "enddate": "2022-07-30",
+        "is_one_day_race": true,
+        "name": "Donostia San Sebastian Klasikoa",
+        "nationality": "ES",
+        "normalized_relative_url": "race/san-sebastian/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-07-30",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Dwars door Vlaanderen - A travers la Flandre ME": {
+        "category": "Men Elite",
+        "edition": 76,
+        "enddate": "2022-03-30",
+        "is_one_day_race": true,
+        "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/dwars-door-vlaanderen/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-03-30",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "E3 Saxo Bank Classic": {
+        "category": "Men Elite",
+        "edition": 64,
+        "enddate": "2022-03-25",
+        "is_one_day_race": true,
+        "name": "E3 Saxo Bank Classic",
+        "nationality": "BE",
+        "normalized_relative_url": "race/e3-harelbeke/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-03-25",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Eschborn-Frankfurt": {
+        "category": "Men Elite",
+        "edition": 59,
+        "enddate": "2022-05-01",
+        "is_one_day_race": true,
+        "name": "Eschborn-Frankfurt",
+        "nationality": "DE",
+        "normalized_relative_url": "race/eschborn-frankfurt/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-05-01",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Gent-Wevelgem in Flanders Fields ME": {
+        "category": "Men Elite",
+        "edition": 84,
+        "enddate": "2022-03-27",
+        "is_one_day_race": true,
+        "name": "Gent-Wevelgem in Flanders Fields ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/gent-wevelgem/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-03-27",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Giro d'Italia": {
+        "category": "Men Elite",
+        "edition": 105,
+        "enddate": "2022-05-29",
+        "is_one_day_race": false,
+        "name": "Giro d'Italia",
+        "nationality": "IT",
+        "normalized_relative_url": "race/giro-d-italia/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "05-06",
+                "distance": 195.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 1 | Budapest - Visegr\u00e1d",
+                "stage_url": "race/giro-d-italia/2022/stage-1"
+            },
+            {
+                "date": "05-07",
+                "distance": 9.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 (ITT) | Budapest - Budapest",
+                "stage_url": "race/giro-d-italia/2022/stage-2"
+            },
+            {
+                "date": "05-08",
+                "distance": 201.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Kaposv\u00e1r - Balatonf\u00fcred",
+                "stage_url": "race/giro-d-italia/2022/stage-3"
+            },
+            {
+                "date": "05-10",
+                "distance": 172.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | Avola - Etna",
+                "stage_url": "race/giro-d-italia/2022/stage-4"
+            },
+            {
+                "date": "05-11",
+                "distance": 174.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Catania - Messina",
+                "stage_url": "race/giro-d-italia/2022/stage-5"
+            },
+            {
+                "date": "05-12",
+                "distance": 192.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Palmi - Scalea",
+                "stage_url": "race/giro-d-italia/2022/stage-6"
+            },
+            {
+                "date": "05-13",
+                "distance": 196.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 7 | Diamante - Potenza",
+                "stage_url": "race/giro-d-italia/2022/stage-7"
+            },
+            {
+                "date": "05-14",
+                "distance": 153.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 8 | Napoli - Napoli",
+                "stage_url": "race/giro-d-italia/2022/stage-8"
+            },
+            {
+                "date": "05-15",
+                "distance": 191.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 9 | Isernia - Blockhaus",
+                "stage_url": "race/giro-d-italia/2022/stage-9"
+            },
+            {
+                "date": "05-17",
+                "distance": 196.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 10 | Pescara - Jesi",
+                "stage_url": "race/giro-d-italia/2022/stage-10"
+            },
+            {
+                "date": "05-18",
+                "distance": 203.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 11 | Santarcangelo di Romagna - Reggio Emilia",
+                "stage_url": "race/giro-d-italia/2022/stage-11"
+            },
+            {
+                "date": "05-19",
+                "distance": 204.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 12 | Parma - Genova",
+                "stage_url": "race/giro-d-italia/2022/stage-12"
+            },
+            {
+                "date": "05-20",
+                "distance": 150.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 13 | Sanremo - Cuneo",
+                "stage_url": "race/giro-d-italia/2022/stage-13"
+            },
+            {
+                "date": "05-21",
+                "distance": 147.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 14 | Santena - Torino",
+                "stage_url": "race/giro-d-italia/2022/stage-14"
+            },
+            {
+                "date": "05-22",
+                "distance": 177.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 15 | Rivarolo Canavese - Cogne",
+                "stage_url": "race/giro-d-italia/2022/stage-15"
+            },
+            {
+                "date": "05-24",
+                "distance": 202.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 16 | Sal\u00f2 - Aprica",
+                "stage_url": "race/giro-d-italia/2022/stage-16"
+            },
+            {
+                "date": "05-25",
+                "distance": 168.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 17 | Ponte di Legno - Lavarone",
+                "stage_url": "race/giro-d-italia/2022/stage-17"
+            },
+            {
+                "date": "05-26",
+                "distance": 156.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 18 | Borgo Valsugana - Treviso",
+                "stage_url": "race/giro-d-italia/2022/stage-18"
+            },
+            {
+                "date": "05-27",
+                "distance": 178.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 19 | Marano Lagunare - Santuario di Castelmonte",
+                "stage_url": "race/giro-d-italia/2022/stage-19"
+            },
+            {
+                "date": "05-28",
+                "distance": 168.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 20 | Belluno - Marmolada (Passo Fedaia)",
+                "stage_url": "race/giro-d-italia/2022/stage-20"
+            },
+            {
+                "date": "05-29",
+                "distance": 17.4,
+                "profile_icon": "p2",
+                "stage_name": "Stage 21 (ITT) | Verona - Verona",
+                "stage_url": "race/giro-d-italia/2022/stage-21"
+            }
+        ],
+        "startdate": "2022-05-06",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Grand Prix Cycliste de Montr\u00e9al": {
+        "category": "Men Elite",
+        "edition": 11,
+        "enddate": "2022-09-11",
+        "is_one_day_race": true,
+        "name": "Grand Prix Cycliste de Montr\u00e9al",
+        "nationality": "CA",
+        "normalized_relative_url": "race/gp-montreal/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-09-11",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Grand Prix Cycliste de Qu\u00e9bec": {
+        "category": "Men Elite",
+        "edition": 11,
+        "enddate": "2022-09-09",
+        "is_one_day_race": true,
+        "name": "Grand Prix Cycliste de Qu\u00e9bec",
+        "nationality": "CA",
+        "normalized_relative_url": "race/gp-quebec/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-09-09",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Gree-Tour of Guangxi": {
+        "category": "Men Elite",
+        "edition": 4,
+        "enddate": "2022-10-18",
+        "is_one_day_race": false,
+        "name": "Gree-Tour of Guangxi",
+        "nationality": "CN",
+        "normalized_relative_url": "race/tour-of-guangxi/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "10-13",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 |  - ",
+                "stage_url": "race/tour-of-guangxi/2022/stage-1"
+            },
+            {
+                "date": "10-14",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 |  - ",
+                "stage_url": "race/tour-of-guangxi/2022/stage-2"
+            },
+            {
+                "date": "10-15",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 |  - ",
+                "stage_url": "race/tour-of-guangxi/2022/stage-3"
+            },
+            {
+                "date": "10-16",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 |  - ",
+                "stage_url": "race/tour-of-guangxi/2022/stage-4"
+            },
+            {
+                "date": "10-17",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 |  - ",
+                "stage_url": "race/tour-of-guangxi/2022/stage-5"
+            },
+            {
+                "date": "10-18",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 6 |  - ",
+                "stage_url": "race/tour-of-guangxi/2022/stage-6"
+            }
+        ],
+        "startdate": "2022-10-13",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Il Lombardia": {
+        "category": "Men Elite",
+        "edition": 116,
+        "enddate": "2022-10-08",
+        "is_one_day_race": true,
+        "name": "Il Lombardia",
+        "nationality": "IT",
+        "normalized_relative_url": "race/il-lombardia/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-10-08",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Itzulia Basque Country": {
+        "category": "Men Elite",
+        "edition": 61,
+        "enddate": "2022-04-09",
+        "is_one_day_race": false,
+        "name": "Itzulia Basque Country",
+        "nationality": "ES",
+        "normalized_relative_url": "race/itzulia-basque-country/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "04-04",
+                "distance": 7.51,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 (ITT) | Hondarribia - Hondarribia",
+                "stage_url": "race/itzulia-basque-country/2022/stage-1"
+            },
+            {
+                "date": "04-05",
+                "distance": 207.92,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Leitza - Viana",
+                "stage_url": "race/itzulia-basque-country/2022/stage-2"
+            },
+            {
+                "date": "04-06",
+                "distance": 181.7,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Llodio - Amurrio",
+                "stage_url": "race/itzulia-basque-country/2022/stage-3"
+            },
+            {
+                "date": "04-07",
+                "distance": 185.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Vitoria-Gasteiz - Zamudio",
+                "stage_url": "race/itzulia-basque-country/2022/stage-4"
+            },
+            {
+                "date": "04-08",
+                "distance": 163.76,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Zamudio - Mallabia",
+                "stage_url": "race/itzulia-basque-country/2022/stage-5"
+            },
+            {
+                "date": "04-09",
+                "distance": 135.7,
+                "profile_icon": "p3",
+                "stage_name": "Stage 6 | Eibar - Arrate",
+                "stage_url": "race/itzulia-basque-country/2022/stage-6"
+            }
+        ],
+        "startdate": "2022-04-04",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "La Fl\u00e8che Wallonne": {
+        "category": "Men Elite",
+        "edition": 86,
+        "enddate": "2022-04-20",
+        "is_one_day_race": true,
+        "name": "La Fl\u00e8che Wallonne",
+        "nationality": "BE",
+        "normalized_relative_url": "race/la-fleche-wallone/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-04-20",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "La Vuelta ciclista a Espa\u00f1a": {
+        "category": "Men Elite",
+        "edition": 77,
+        "enddate": "2022-09-11",
+        "is_one_day_race": false,
+        "name": "La Vuelta ciclista a Espa\u00f1a",
+        "nationality": "ES",
+        "normalized_relative_url": "race/vuelta-a-espana/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-19",
+                "distance": 23.3,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (TTT) | Utrecht - Utrecht",
+                "stage_url": "race/vuelta-a-espana/2022/stage-1"
+            },
+            {
+                "date": "08-20",
+                "distance": 175.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | 's-Hertogenbosch - Utrecht",
+                "stage_url": "race/vuelta-a-espana/2022/stage-2"
+            },
+            {
+                "date": "08-21",
+                "distance": 193.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Breda - Breda",
+                "stage_url": "race/vuelta-a-espana/2022/stage-3"
+            },
+            {
+                "date": "08-23",
+                "distance": 152.5,
+                "profile_icon": "p3",
+                "stage_name": "Stage 4 | Vitoria-Gasteiz - Laguardia",
+                "stage_url": "race/vuelta-a-espana/2022/stage-4"
+            },
+            {
+                "date": "08-24",
+                "distance": 187.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Ir\u00fan - Bilbao",
+                "stage_url": "race/vuelta-a-espana/2022/stage-5"
+            },
+            {
+                "date": "08-25",
+                "distance": 181.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Bilbao - Ascensi\u00f3n al Pico Jano. San Miguel de Aguayo",
+                "stage_url": "race/vuelta-a-espana/2022/stage-6"
+            },
+            {
+                "date": "08-26",
+                "distance": 190.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Camargo - Cistierna",
+                "stage_url": "race/vuelta-a-espana/2022/stage-7"
+            },
+            {
+                "date": "08-27",
+                "distance": 153.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 8 | La Pola Llaviana/Pola de Laviana - Coll\u00e1u Fancuaya",
+                "stage_url": "race/vuelta-a-espana/2022/stage-8"
+            },
+            {
+                "date": "08-28",
+                "distance": 171.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 9 | Villaviciosa - Les Praeres. Nava",
+                "stage_url": "race/vuelta-a-espana/2022/stage-9"
+            },
+            {
+                "date": "08-30",
+                "distance": 30.9,
+                "profile_icon": "p1",
+                "stage_name": "Stage 10 (ITT) | Elche - Alicante",
+                "stage_url": "race/vuelta-a-espana/2022/stage-10"
+            },
+            {
+                "date": "08-31",
+                "distance": 191.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 11 | ElPozo Alimentaci\u00f3n - Cabo de Gata",
+                "stage_url": "race/vuelta-a-espana/2022/stage-11"
+            },
+            {
+                "date": "09-01",
+                "distance": 192.7,
+                "profile_icon": "p5",
+                "stage_name": "Stage 12 | Salobre\u00f1a - Pe\u00f1as Blancas. Estepona",
+                "stage_url": "race/vuelta-a-espana/2022/stage-12"
+            },
+            {
+                "date": "09-02",
+                "distance": 168.4,
+                "profile_icon": "p1",
+                "stage_name": "Stage 13 | Ronda - Montilla",
+                "stage_url": "race/vuelta-a-espana/2022/stage-13"
+            },
+            {
+                "date": "09-03",
+                "distance": 160.3,
+                "profile_icon": "p5",
+                "stage_name": "Stage 14 | Montoro - Sierra de La Pandera",
+                "stage_url": "race/vuelta-a-espana/2022/stage-14"
+            },
+            {
+                "date": "09-04",
+                "distance": 152.6,
+                "profile_icon": "p5",
+                "stage_name": "Stage 15 | Martos - Sierra Nevada",
+                "stage_url": "race/vuelta-a-espana/2022/stage-15"
+            },
+            {
+                "date": "09-06",
+                "distance": 189.4,
+                "profile_icon": "p1",
+                "stage_name": "Stage 16 | Sanl\u00facar de Barrameda - Tomares",
+                "stage_url": "race/vuelta-a-espana/2022/stage-16"
+            },
+            {
+                "date": "09-07",
+                "distance": 162.3,
+                "profile_icon": "p1",
+                "stage_name": "Stage 17 | Aracena - Monasterio de Tentud\u00eda",
+                "stage_url": "race/vuelta-a-espana/2022/stage-17"
+            },
+            {
+                "date": "09-08",
+                "distance": 192.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 18 | Trujillo - Alto del Piornal",
+                "stage_url": "race/vuelta-a-espana/2022/stage-18"
+            },
+            {
+                "date": "09-09",
+                "distance": 138.3,
+                "profile_icon": "p4",
+                "stage_name": "Stage 19 | Talavera de la Reina - Talavera de la Reina",
+                "stage_url": "race/vuelta-a-espana/2022/stage-19"
+            },
+            {
+                "date": "09-10",
+                "distance": 181.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 20 | Moralzarzal - Puerto de Navacerrada",
+                "stage_url": "race/vuelta-a-espana/2022/stage-20"
+            },
+            {
+                "date": "09-11",
+                "distance": 96.7,
+                "profile_icon": "p1",
+                "stage_name": "Stage 21 | Las Rozas - Madrid",
+                "stage_url": "race/vuelta-a-espana/2022/stage-21"
+            }
+        ],
+        "startdate": "2022-08-19",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Li\u00e8ge-Bastogne-Li\u00e8ge": {
+        "category": "Men Elite",
+        "edition": 108,
+        "enddate": "2022-04-24",
+        "is_one_day_race": true,
+        "name": "Li\u00e8ge-Bastogne-Li\u00e8ge",
+        "nationality": "BE",
+        "normalized_relative_url": "race/liege-bastogne-liege/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-04-24",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Milano-Sanremo": {
+        "category": "Men Elite",
+        "edition": 113,
+        "enddate": "2022-03-19",
+        "is_one_day_race": true,
+        "name": "Milano-Sanremo",
+        "nationality": "IT",
+        "normalized_relative_url": "race/milano-sanremo/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-03-19",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Minerva Classic Brugge-De Panne": {
+        "category": "Men Elite",
+        "edition": 46,
+        "enddate": "2022-03-23",
+        "is_one_day_race": true,
+        "name": "Minerva Classic Brugge-De Panne",
+        "nationality": "BE",
+        "normalized_relative_url": "race/oxyclean-classic-brugge-de-panne/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-03-23",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Omloop Het Nieuwsblad ME": {
+        "category": "Men Elite",
+        "edition": 77,
+        "enddate": "2022-02-26",
+        "is_one_day_race": true,
+        "name": "Omloop Het Nieuwsblad ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/omloop-het-nieuwsblad/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-02-26",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Paris - Nice": {
+        "category": "Men Elite",
+        "edition": 80,
+        "enddate": "2022-03-13",
+        "is_one_day_race": false,
+        "name": "Paris - Nice",
+        "nationality": "FR",
+        "normalized_relative_url": "race/paris-nice/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-06",
+                "distance": 159.8,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Mantes-la-Ville - Mantes-la-Ville",
+                "stage_url": "race/paris-nice/2022/stage-1"
+            },
+            {
+                "date": "03-07",
+                "distance": 159.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Auffargis - Orl\u00e9ans",
+                "stage_url": "race/paris-nice/2022/stage-2"
+            },
+            {
+                "date": "03-08",
+                "distance": 190.8,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Vierzon - Dun-le-Palestel",
+                "stage_url": "race/paris-nice/2022/stage-3"
+            },
+            {
+                "date": "03-09",
+                "distance": 13.4,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 (ITT) | Dom\u00e9rat - Montlu\u00e7on",
+                "stage_url": "race/paris-nice/2022/stage-4"
+            },
+            {
+                "date": "03-10",
+                "distance": 188.8,
+                "profile_icon": "p4",
+                "stage_name": "Stage 5 | Saint-Just-Saint-Rambert - Saint-Sauveur-de-Montagut",
+                "stage_url": "race/paris-nice/2022/stage-5"
+            },
+            {
+                "date": "03-11",
+                "distance": 213.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Courth\u00e9zon - Aubagne",
+                "stage_url": "race/paris-nice/2022/stage-6"
+            },
+            {
+                "date": "03-12",
+                "distance": 155.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Nice - Col de Turini",
+                "stage_url": "race/paris-nice/2022/stage-7"
+            },
+            {
+                "date": "03-13",
+                "distance": 115.6,
+                "profile_icon": "p4",
+                "stage_name": "Stage 8 | Nice - Nice",
+                "stage_url": "race/paris-nice/2022/stage-8"
+            }
+        ],
+        "startdate": "2022-03-06",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Paris-Roubaix": {
+        "category": "Men Elite",
+        "edition": 119,
+        "enddate": "2022-04-17",
+        "is_one_day_race": true,
+        "name": "Paris-Roubaix",
+        "nationality": "FR",
+        "normalized_relative_url": "race/paris-roubaix/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-04-17",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Ronde van Vlaanderen - Tour des Flandres ME": {
+        "category": "Men Elite",
+        "edition": 106,
+        "enddate": "2022-04-03",
+        "is_one_day_race": true,
+        "name": "Ronde van Vlaanderen - Tour des Flandres ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/ronde-van-vlaanderen/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-04-03",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Santos Tour Down Under": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2022-01-23",
+        "is_one_day_race": false,
+        "name": "Santos Tour Down Under",
+        "nationality": "AU",
+        "normalized_relative_url": "race/tour-down-under/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "01-18",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 |  - ",
+                "stage_url": "race/tour-down-under/2022/stage-1"
+            },
+            {
+                "date": "01-19",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 |  - ",
+                "stage_url": "race/tour-down-under/2022/stage-2"
+            },
+            {
+                "date": "01-20",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 |  - ",
+                "stage_url": "race/tour-down-under/2022/stage-3"
+            },
+            {
+                "date": "01-21",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 |  - ",
+                "stage_url": "race/tour-down-under/2022/stage-4"
+            },
+            {
+                "date": "01-22",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 |  - ",
+                "stage_url": "race/tour-down-under/2022/stage-5"
+            },
+            {
+                "date": "01-23",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 6 |  - ",
+                "stage_url": "race/tour-down-under/2022/stage-6"
+            }
+        ],
+        "startdate": "2022-01-18",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Strade Bianche": {
+        "category": "Men Elite",
+        "edition": 16,
+        "enddate": "2022-03-05",
+        "is_one_day_race": true,
+        "name": "Strade Bianche",
+        "nationality": "IT",
+        "normalized_relative_url": "race/strade-bianche/2022/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2022-03-05",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Tirreno-Adriatico": {
+        "category": "Men Elite",
+        "edition": 57,
+        "enddate": "2022-03-13",
+        "is_one_day_race": false,
+        "name": "Tirreno-Adriatico",
+        "nationality": "IT",
+        "normalized_relative_url": "race/tirreno-adriatico/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-07",
+                "distance": 13.9,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (ITT) | Lido di Camaiore - Lido di Camaiore",
+                "stage_url": "race/tirreno-adriatico/2022/stage-1"
+            },
+            {
+                "date": "03-08",
+                "distance": 219.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Camaiore - Sovicille",
+                "stage_url": "race/tirreno-adriatico/2022/stage-2"
+            },
+            {
+                "date": "03-09",
+                "distance": 170.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Murlo - Terni",
+                "stage_url": "race/tirreno-adriatico/2022/stage-3"
+            },
+            {
+                "date": "03-10",
+                "distance": 202.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 4 | Cascata delle Marmore - Bellante",
+                "stage_url": "race/tirreno-adriatico/2022/stage-4"
+            },
+            {
+                "date": "03-11",
+                "distance": 155.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Sefro - Fermo",
+                "stage_url": "race/tirreno-adriatico/2022/stage-5"
+            },
+            {
+                "date": "03-12",
+                "distance": 215.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Apecchio - Carpegna",
+                "stage_url": "race/tirreno-adriatico/2022/stage-6"
+            },
+            {
+                "date": "03-13",
+                "distance": 159.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | San Benedetto del Tronto - San Benedetto del Tronto",
+                "stage_url": "race/tirreno-adriatico/2022/stage-7"
+            }
+        ],
+        "startdate": "2022-03-07",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Tour de France": {
+        "category": "Men Elite",
+        "edition": 109,
+        "enddate": "2022-07-24",
+        "is_one_day_race": false,
+        "name": "Tour de France",
+        "nationality": "FR",
+        "normalized_relative_url": "race/tour-de-france/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "07-01",
+                "distance": 13.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (ITT) | Copenhagen - Copenhagen",
+                "stage_url": "race/tour-de-france/2022/stage-1"
+            },
+            {
+                "date": "07-02",
+                "distance": 202.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Roskilde - Nyborg",
+                "stage_url": "race/tour-de-france/2022/stage-2"
+            },
+            {
+                "date": "07-03",
+                "distance": 182.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Vejle - S\u00f8nderborg",
+                "stage_url": "race/tour-de-france/2022/stage-3"
+            },
+            {
+                "date": "07-05",
+                "distance": 171.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 | Dunkerque - Calais",
+                "stage_url": "race/tour-de-france/2022/stage-4"
+            },
+            {
+                "date": "07-06",
+                "distance": 157.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 | Lille - Wallers-Arenberg",
+                "stage_url": "race/tour-de-france/2022/stage-5"
+            },
+            {
+                "date": "07-07",
+                "distance": 219.9,
+                "profile_icon": "p3",
+                "stage_name": "Stage 6 | Binche - Longwy",
+                "stage_url": "race/tour-de-france/2022/stage-6"
+            },
+            {
+                "date": "07-08",
+                "distance": 176.3,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Tomblaine - La Super Planche des Belles Filles",
+                "stage_url": "race/tour-de-france/2022/stage-7"
+            },
+            {
+                "date": "07-09",
+                "distance": 186.3,
+                "profile_icon": "p3",
+                "stage_name": "Stage 8 | Dole - Lausanne",
+                "stage_url": "race/tour-de-france/2022/stage-8"
+            },
+            {
+                "date": "07-10",
+                "distance": 192.9,
+                "profile_icon": "p3",
+                "stage_name": "Stage 9 | Aigle - Ch\u00e2tel les portes du Soleil",
+                "stage_url": "race/tour-de-france/2022/stage-9"
+            },
+            {
+                "date": "07-12",
+                "distance": 148.1,
+                "profile_icon": "p5",
+                "stage_name": "Stage 10 | Morzine - Meg\u00e8ve",
+                "stage_url": "race/tour-de-france/2022/stage-10"
+            },
+            {
+                "date": "07-13",
+                "distance": 151.7,
+                "profile_icon": "p5",
+                "stage_name": "Stage 11 | Albertville - Col du Granon",
+                "stage_url": "race/tour-de-france/2022/stage-11"
+            },
+            {
+                "date": "07-14",
+                "distance": 165.1,
+                "profile_icon": "p5",
+                "stage_name": "Stage 12 | Brian\u00e7on - L'Alpe d'Huez",
+                "stage_url": "race/tour-de-france/2022/stage-12"
+            },
+            {
+                "date": "07-15",
+                "distance": 192.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 13 | Bourg d'Oisans - Saint-Etienne",
+                "stage_url": "race/tour-de-france/2022/stage-13"
+            },
+            {
+                "date": "07-16",
+                "distance": 192.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 14 | Saint-Etienne - Mende",
+                "stage_url": "race/tour-de-france/2022/stage-14"
+            },
+            {
+                "date": "07-17",
+                "distance": 202.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 15 | Rodez - Carcassonne",
+                "stage_url": "race/tour-de-france/2022/stage-15"
+            },
+            {
+                "date": "07-19",
+                "distance": 178.5,
+                "profile_icon": "p4",
+                "stage_name": "Stage 16 | Carcassonne - Foix",
+                "stage_url": "race/tour-de-france/2022/stage-16"
+            },
+            {
+                "date": "07-20",
+                "distance": 129.7,
+                "profile_icon": "p5",
+                "stage_name": "Stage 17 | Saint-Gaudens - Peyragudes",
+                "stage_url": "race/tour-de-france/2022/stage-17"
+            },
+            {
+                "date": "07-21",
+                "distance": 143.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 18 | Lourdes - Hautacam",
+                "stage_url": "race/tour-de-france/2022/stage-18"
+            },
+            {
+                "date": "07-22",
+                "distance": 188.3,
+                "profile_icon": "p3",
+                "stage_name": "Stage 19 | Castelnau-Magnoac - Cahors",
+                "stage_url": "race/tour-de-france/2022/stage-19"
+            },
+            {
+                "date": "07-23",
+                "distance": 40.7,
+                "profile_icon": "p3",
+                "stage_name": "Stage 20 (ITT) | Lacapelle-Marival - Rocamadour",
+                "stage_url": "race/tour-de-france/2022/stage-20"
+            },
+            {
+                "date": "07-24",
+                "distance": 115.6,
+                "profile_icon": "p1",
+                "stage_name": "Stage 21 | Paris La D\u00e9fense - Paris (Champs-\u00c9lys\u00e9es)",
+                "stage_url": "race/tour-de-france/2022/stage-21"
+            }
+        ],
+        "startdate": "2022-07-01",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Tour de Pologne": {
+        "category": "Men Elite",
+        "edition": 79,
+        "enddate": "2022-08-05",
+        "is_one_day_race": false,
+        "name": "Tour de Pologne",
+        "nationality": "PL",
+        "normalized_relative_url": "race/tour-de-pologne/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "07-30",
+                "distance": 218.8,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Kielce - Lublin",
+                "stage_url": "race/tour-de-pologne/2022/stage-1"
+            },
+            {
+                "date": "07-31",
+                "distance": 205.6,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Che\u0142m - Zamo\u015b\u0107",
+                "stage_url": "race/tour-de-pologne/2022/stage-2"
+            },
+            {
+                "date": "08-01",
+                "distance": 237.9,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Kra\u015bnik - Przemy\u015bl",
+                "stage_url": "race/tour-de-pologne/2022/stage-3"
+            },
+            {
+                "date": "08-02",
+                "distance": 179.4,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Lesko - Sanok",
+                "stage_url": "race/tour-de-pologne/2022/stage-4"
+            },
+            {
+                "date": "08-03",
+                "distance": 178.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | \u0141a\u0144cut - Rzesz\u00f3w",
+                "stage_url": "race/tour-de-pologne/2022/stage-5"
+            },
+            {
+                "date": "08-04",
+                "distance": 11.8,
+                "profile_icon": "p3",
+                "stage_name": "Stage 6 (ITT) | Nowy Targ (Gronk\u00f3w) - Stacja Narciarska Rusi\u0144ski",
+                "stage_url": "race/tour-de-pologne/2022/stage-6"
+            },
+            {
+                "date": "08-05",
+                "distance": 177.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Valsir - Krak\u00f3w",
+                "stage_url": "race/tour-de-pologne/2022/stage-7"
+            }
+        ],
+        "startdate": "2022-07-30",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Tour de Romandie": {
+        "category": "Men Elite",
+        "edition": 75,
+        "enddate": "2022-05-01",
+        "is_one_day_race": false,
+        "name": "Tour de Romandie",
+        "nationality": "CH",
+        "normalized_relative_url": "race/tour-de-romandie/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "04-26",
+                "distance": 5.12,
+                "profile_icon": "p1",
+                "stage_name": "Prologue | Lausanne - Lausanne",
+                "stage_url": "race/tour-de-romandie/2022/prologue"
+            },
+            {
+                "date": "04-27",
+                "distance": 178.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 1 | La Grande Beroche - Romont",
+                "stage_url": "race/tour-de-romandie/2022/stage-1"
+            },
+            {
+                "date": "04-28",
+                "distance": 168.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | \u00c9challens - \u00c9challens",
+                "stage_url": "race/tour-de-romandie/2022/stage-2"
+            },
+            {
+                "date": "04-29",
+                "distance": 165.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Valbroye - Valbroye",
+                "stage_url": "race/tour-de-romandie/2022/stage-3"
+            },
+            {
+                "date": "04-30",
+                "distance": 180.1,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | Aigle - Zinal (Val d'Anniviers)",
+                "stage_url": "race/tour-de-romandie/2022/stage-4"
+            },
+            {
+                "date": "05-01",
+                "distance": 15.84,
+                "profile_icon": "p5",
+                "stage_name": "Stage 5 (ITT) | Aigle - Villars",
+                "stage_url": "race/tour-de-romandie/2022/stage-5"
+            }
+        ],
+        "startdate": "2022-04-26",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Tour de Suisse": {
+        "category": "Men Elite",
+        "edition": 85,
+        "enddate": "2022-06-19",
+        "is_one_day_race": false,
+        "name": "Tour de Suisse",
+        "nationality": "CH",
+        "normalized_relative_url": "race/tour-de-suisse/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "06-12",
+                "distance": 177.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | K\u00fcsnacht - K\u00fcsnacht ",
+                "stage_url": "race/tour-de-suisse/2022/stage-1"
+            },
+            {
+                "date": "06-13",
+                "distance": 198.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | K\u00fcsnacht - Aesch",
+                "stage_url": "race/tour-de-suisse/2022/stage-2"
+            },
+            {
+                "date": "06-14",
+                "distance": 176.9,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Aesch - Grenchen",
+                "stage_url": "race/tour-de-suisse/2022/stage-3"
+            },
+            {
+                "date": "06-15",
+                "distance": 190.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Grenchen - Brunnen",
+                "stage_url": "race/tour-de-suisse/2022/stage-4"
+            },
+            {
+                "date": "06-16",
+                "distance": 190.1,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Ambri - Novazzano",
+                "stage_url": "race/tour-de-suisse/2022/stage-5"
+            },
+            {
+                "date": "06-17",
+                "distance": 177.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Locarno - Moosalp",
+                "stage_url": "race/tour-de-suisse/2022/stage-6"
+            },
+            {
+                "date": "06-18",
+                "distance": 194.6,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Ambri - Malbun",
+                "stage_url": "race/tour-de-suisse/2022/stage-7"
+            },
+            {
+                "date": "06-19",
+                "distance": 25.6,
+                "profile_icon": "p1",
+                "stage_name": "Stage 8 (ITT) | Vaduz - Vaduz",
+                "stage_url": "race/tour-de-suisse/2022/stage-8"
+            }
+        ],
+        "startdate": "2022-06-12",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "UAE Tour": {
+        "category": "Men Elite",
+        "edition": 4,
+        "enddate": "2022-02-26",
+        "is_one_day_race": false,
+        "name": "UAE Tour",
+        "nationality": "AE",
+        "normalized_relative_url": "race/uae-tour/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "02-20",
+                "distance": 184.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Madinat Zayed - Madinat Zayed",
+                "stage_url": "race/uae-tour/2022/stage-1"
+            },
+            {
+                "date": "02-21",
+                "distance": 176.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Hudayriyat Island - Abu Dhabi Breakwater",
+                "stage_url": "race/uae-tour/2022/stage-2"
+            },
+            {
+                "date": "02-22",
+                "distance": 9.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 (ITT) | Ajman - Ajman",
+                "stage_url": "race/uae-tour/2022/stage-3"
+            },
+            {
+                "date": "02-23",
+                "distance": 181.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | Fujairah Fort - Jebel Jais",
+                "stage_url": "race/uae-tour/2022/stage-4"
+            },
+            {
+                "date": "02-24",
+                "distance": 182.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 | Ras al Khaimah Corniche - Al Marjan Island ",
+                "stage_url": "race/uae-tour/2022/stage-5"
+            },
+            {
+                "date": "02-25",
+                "distance": 180.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 6 | Expo 2020 Dubai - Expo 2020 Dubai ",
+                "stage_url": "race/uae-tour/2022/stage-6"
+            },
+            {
+                "date": "02-26",
+                "distance": 148.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Al Ain - Jebel Hafeet",
+                "stage_url": "race/uae-tour/2022/stage-7"
+            }
+        ],
+        "startdate": "2022-02-20",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    },
+    "Volta Ciclista a Catalunya": {
+        "category": "Men Elite",
+        "edition": 101,
+        "enddate": "2022-03-27",
+        "is_one_day_race": false,
+        "name": "Volta Ciclista a Catalunya",
+        "nationality": "ES",
+        "normalized_relative_url": "race/volta-a-catalunya/2022/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-21",
+                "distance": 171.2,
+                "profile_icon": "p3",
+                "stage_name": "Stage 1 | Sant Feliu de Gu\u00edxols - Sant Feliu de Gu\u00edxols",
+                "stage_url": "race/volta-a-catalunya/2022/stage-1"
+            },
+            {
+                "date": "03-22",
+                "distance": 202.4,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | L'Escala - Perpignan",
+                "stage_url": "race/volta-a-catalunya/2022/stage-2"
+            },
+            {
+                "date": "03-23",
+                "distance": 161.1,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Perpignan - La Molina",
+                "stage_url": "race/volta-a-catalunya/2022/stage-3"
+            },
+            {
+                "date": "03-24",
+                "distance": 166.7,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | La Seu d'Urgell - Bo\u00ed Ta\u00fcll",
+                "stage_url": "race/volta-a-catalunya/2022/stage-4"
+            },
+            {
+                "date": "03-25",
+                "distance": 206.3,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | La Pobla de Segur - Vilanova i la Geltr\u00fa",
+                "stage_url": "race/volta-a-catalunya/2022/stage-5"
+            },
+            {
+                "date": "03-26",
+                "distance": 168.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Salou - Cambrils",
+                "stage_url": "race/volta-a-catalunya/2022/stage-6"
+            },
+            {
+                "date": "03-27",
+                "distance": 138.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Barcelona - Barcelona",
+                "stage_url": "race/volta-a-catalunya/2022/stage-7"
+            }
+        ],
+        "startdate": "2022-03-21",
+        "uci_tour": "UCI Worldtour",
+        "year": 2022
+    }
+}

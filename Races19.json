@@ -1,0 +1,1536 @@
+{
+    "Amstel Gold Race": {
+        "category": "Men Elite",
+        "edition": 54,
+        "enddate": "2019-04-21",
+        "is_one_day_race": true,
+        "name": "Amstel Gold Race",
+        "nationality": "NL",
+        "normalized_relative_url": "race/amstel-gold-race/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-04-21",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "BinckBank Tour": {
+        "category": "Men Elite",
+        "edition": 15,
+        "enddate": "2019-08-18",
+        "is_one_day_race": false,
+        "name": "BinckBank Tour",
+        "nationality": "BE",
+        "normalized_relative_url": "race/benelux-tour/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-12",
+                "distance": 167.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Beveren - Hulst",
+                "stage_url": "race/benelux-tour/2019/stage-1"
+            },
+            {
+                "date": "08-13",
+                "distance": 169.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Blankenberge - Ardooie",
+                "stage_url": "race/benelux-tour/2019/stage-2"
+            },
+            {
+                "date": "08-14",
+                "distance": 166.9,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Aalter - Aalter",
+                "stage_url": "race/benelux-tour/2019/stage-3"
+            },
+            {
+                "date": "08-15",
+                "distance": 96.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Houffalize - Houffalize",
+                "stage_url": "race/benelux-tour/2019/stage-4"
+            },
+            {
+                "date": "08-16",
+                "distance": 191.4,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 | Riemst - Venray",
+                "stage_url": "race/benelux-tour/2019/stage-5"
+            },
+            {
+                "date": "08-17",
+                "distance": 8.4,
+                "profile_icon": "p1",
+                "stage_name": "Stage 6 (ITT) | Den Haag - Den Haag",
+                "stage_url": "race/benelux-tour/2019/stage-6"
+            },
+            {
+                "date": "08-18",
+                "distance": 173.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Sint-Pieters-Leeuw - Geraardsbergen",
+                "stage_url": "race/benelux-tour/2019/stage-7"
+            }
+        ],
+        "startdate": "2019-08-12",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Bretagne Classic - Ouest-France": {
+        "category": "Men Elite",
+        "edition": 83,
+        "enddate": "2019-09-01",
+        "is_one_day_race": true,
+        "name": "Bretagne Classic - Ouest-France",
+        "nationality": "FR",
+        "normalized_relative_url": "race/bretagne-classic/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-09-01",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Cadel Evans Great Ocean Road Race": {
+        "category": "Men Elite",
+        "edition": 5,
+        "enddate": "2019-01-27",
+        "is_one_day_race": true,
+        "name": "Cadel Evans Great Ocean Road Race",
+        "nationality": "AU",
+        "normalized_relative_url": "race/great-ocean-race/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-01-27",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Cl\u00e1sica Ciclista San Sebasti\u00e1n": {
+        "category": "Men Elite",
+        "edition": 39,
+        "enddate": "2019-08-03",
+        "is_one_day_race": true,
+        "name": "Cl\u00e1sica Ciclista San Sebasti\u00e1n",
+        "nationality": "ES",
+        "normalized_relative_url": "race/san-sebastian/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-08-03",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Crit\u00e9rium du Dauphin\u00e9": {
+        "category": "Men Elite",
+        "edition": 71,
+        "enddate": "2019-06-16",
+        "is_one_day_race": false,
+        "name": "Crit\u00e9rium du Dauphin\u00e9",
+        "nationality": "FR",
+        "normalized_relative_url": "race/dauphine/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "06-09",
+                "distance": 142.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 1 | Aurillac - Jussac",
+                "stage_url": "race/dauphine/2019/stage-1"
+            },
+            {
+                "date": "06-10",
+                "distance": 180.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Mauriac - Craponne-sur-Arzon",
+                "stage_url": "race/dauphine/2019/stage-2"
+            },
+            {
+                "date": "06-11",
+                "distance": 177.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Le Puy-en-Velay - Riom",
+                "stage_url": "race/dauphine/2019/stage-3"
+            },
+            {
+                "date": "06-12",
+                "distance": 26.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 (ITT) | Roanne - Roanne",
+                "stage_url": "race/dauphine/2019/stage-4"
+            },
+            {
+                "date": "06-13",
+                "distance": 201.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Bo\u00ebn-sur-Lignon - Voiron",
+                "stage_url": "race/dauphine/2019/stage-5"
+            },
+            {
+                "date": "06-14",
+                "distance": 229.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 6 | Saint-Vulbas - Saint-Michel-de-Maurienne",
+                "stage_url": "race/dauphine/2019/stage-6"
+            },
+            {
+                "date": "06-15",
+                "distance": 133.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Saint-Genix-les-Villages - Pipay",
+                "stage_url": "race/dauphine/2019/stage-7"
+            },
+            {
+                "date": "06-16",
+                "distance": 113.5,
+                "profile_icon": "p4",
+                "stage_name": "Stage 8 | Cluses - Champ\u00e9ry",
+                "stage_url": "race/dauphine/2019/stage-8"
+            }
+        ],
+        "startdate": "2019-06-09",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Driedaagse Brugge-De Panne ME": {
+        "category": "Men Elite",
+        "edition": 43,
+        "enddate": "2019-03-27",
+        "is_one_day_race": true,
+        "name": "Driedaagse Brugge-De Panne ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/oxyclean-classic-brugge-de-panne/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-03-27",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Dwars door Vlaanderen - A travers la Flandre ME": {
+        "category": "Men Elite",
+        "edition": 74,
+        "enddate": "2019-04-03",
+        "is_one_day_race": true,
+        "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/dwars-door-vlaanderen/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-04-03",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "E3 BinckBank Classic": {
+        "category": "Men Elite",
+        "edition": 62,
+        "enddate": "2019-03-29",
+        "is_one_day_race": true,
+        "name": "E3 BinckBank Classic",
+        "nationality": "BE",
+        "normalized_relative_url": "race/e3-harelbeke/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-03-29",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Eschborn-Frankfurt": {
+        "category": "Men Elite",
+        "edition": 57,
+        "enddate": "2019-05-01",
+        "is_one_day_race": true,
+        "name": "Eschborn-Frankfurt",
+        "nationality": "DE",
+        "normalized_relative_url": "race/eschborn-frankfurt/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-05-01",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "EuroEyes Cyclassics Hamburg": {
+        "category": "Men Elite",
+        "edition": 24,
+        "enddate": "2019-08-25",
+        "is_one_day_race": true,
+        "name": "EuroEyes Cyclassics Hamburg",
+        "nationality": "DE",
+        "normalized_relative_url": "race/cyclassics-hamburg/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-08-25",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Gent-Wevelgem in Flanders Fields ME": {
+        "category": "Men Elite",
+        "edition": 81,
+        "enddate": "2019-03-31",
+        "is_one_day_race": true,
+        "name": "Gent-Wevelgem in Flanders Fields ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/gent-wevelgem/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-03-31",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Giro d'Italia": {
+        "category": "Men Elite",
+        "edition": 102,
+        "enddate": "2019-06-02",
+        "is_one_day_race": false,
+        "name": "Giro d'Italia",
+        "nationality": "IT",
+        "normalized_relative_url": "race/giro-d-italia/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "05-11",
+                "distance": 8.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 1 (ITT) | Bologna - Madonna di San Luca",
+                "stage_url": "race/giro-d-italia/2019/stage-1"
+            },
+            {
+                "date": "05-12",
+                "distance": 205.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Bologna - Fucecchio",
+                "stage_url": "race/giro-d-italia/2019/stage-2"
+            },
+            {
+                "date": "05-13",
+                "distance": 220.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Vinci - Orbetello",
+                "stage_url": "race/giro-d-italia/2019/stage-3"
+            },
+            {
+                "date": "05-14",
+                "distance": 235.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 4 | Orbetello - Frascati",
+                "stage_url": "race/giro-d-italia/2019/stage-4"
+            },
+            {
+                "date": "05-15",
+                "distance": 140.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Frascati - Terracina",
+                "stage_url": "race/giro-d-italia/2019/stage-5"
+            },
+            {
+                "date": "05-16",
+                "distance": 238.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Cassino - San Giovanni Rotondo",
+                "stage_url": "race/giro-d-italia/2019/stage-6"
+            },
+            {
+                "date": "05-17",
+                "distance": 185.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Vasto - L'Aquila",
+                "stage_url": "race/giro-d-italia/2019/stage-7"
+            },
+            {
+                "date": "05-18",
+                "distance": 239.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 8 | Tortoreto Lido - Pesaro",
+                "stage_url": "race/giro-d-italia/2019/stage-8"
+            },
+            {
+                "date": "05-19",
+                "distance": 34.8,
+                "profile_icon": "p3",
+                "stage_name": "Stage 9 (ITT) | Riccione - San Marino",
+                "stage_url": "race/giro-d-italia/2019/stage-9"
+            },
+            {
+                "date": "05-21",
+                "distance": 145.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 10 | Ravenna - Modena",
+                "stage_url": "race/giro-d-italia/2019/stage-10"
+            },
+            {
+                "date": "05-22",
+                "distance": 221.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 11 | Carpi - Novi Ligure",
+                "stage_url": "race/giro-d-italia/2019/stage-11"
+            },
+            {
+                "date": "05-23",
+                "distance": 158.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 12 | Cuneo - Pinerolo",
+                "stage_url": "race/giro-d-italia/2019/stage-12"
+            },
+            {
+                "date": "05-24",
+                "distance": 196.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 13 | Pinerolo - Ceresole Reale (Lago Serr\u00f9)",
+                "stage_url": "race/giro-d-italia/2019/stage-13"
+            },
+            {
+                "date": "05-25",
+                "distance": 131.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 14 | Saint Vincent - Courmayeur (Skyway Monte Bianco)",
+                "stage_url": "race/giro-d-italia/2019/stage-14"
+            },
+            {
+                "date": "05-26",
+                "distance": 232.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 15 | Ivrea - Como",
+                "stage_url": "race/giro-d-italia/2019/stage-15"
+            },
+            {
+                "date": "05-28",
+                "distance": 194.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 16 | Lovere - Ponte di Legno",
+                "stage_url": "race/giro-d-italia/2019/stage-16"
+            },
+            {
+                "date": "05-29",
+                "distance": 181.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 17 | Commezzadura (Val di Sole) - Anterselva / Antholz",
+                "stage_url": "race/giro-d-italia/2019/stage-17"
+            },
+            {
+                "date": "05-30",
+                "distance": 222.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 18 | Valdaora / Olang - Santa Maria di Sala",
+                "stage_url": "race/giro-d-italia/2019/stage-18"
+            },
+            {
+                "date": "05-31",
+                "distance": 151.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 19 | Treviso - San Martino di Castrozza",
+                "stage_url": "race/giro-d-italia/2019/stage-19"
+            },
+            {
+                "date": "06-01",
+                "distance": 194.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 20 | Feltre  - Monte Avena",
+                "stage_url": "race/giro-d-italia/2019/stage-20"
+            },
+            {
+                "date": "06-02",
+                "distance": 17.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 21 (ITT) | Verona - Verona",
+                "stage_url": "race/giro-d-italia/2019/stage-21"
+            }
+        ],
+        "startdate": "2019-05-11",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Grand Prix Cycliste de Montr\u00e9al": {
+        "category": "Men Elite",
+        "edition": 10,
+        "enddate": "2019-09-15",
+        "is_one_day_race": true,
+        "name": "Grand Prix Cycliste de Montr\u00e9al",
+        "nationality": "CA",
+        "normalized_relative_url": "race/gp-montreal/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-09-15",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Grand Prix Cycliste de Qu\u00e9bec": {
+        "category": "Men Elite",
+        "edition": 10,
+        "enddate": "2019-09-13",
+        "is_one_day_race": true,
+        "name": "Grand Prix Cycliste de Qu\u00e9bec",
+        "nationality": "CA",
+        "normalized_relative_url": "race/gp-quebec/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-09-13",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Gree-Tour of Guangxi": {
+        "category": "Men Elite",
+        "edition": 3,
+        "enddate": "2019-10-22",
+        "is_one_day_race": false,
+        "name": "Gree-Tour of Guangxi",
+        "nationality": "CN",
+        "normalized_relative_url": "race/tour-of-guangxi/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "10-17",
+                "distance": 135.6,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Beihai  - Beihai ",
+                "stage_url": "race/tour-of-guangxi/2019/stage-1"
+            },
+            {
+                "date": "10-18",
+                "distance": 152.3,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Beihai  - Qinzhou",
+                "stage_url": "race/tour-of-guangxi/2019/stage-2"
+            },
+            {
+                "date": "10-19",
+                "distance": 143.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Nanning - Nanning",
+                "stage_url": "race/tour-of-guangxi/2019/stage-3"
+            },
+            {
+                "date": "10-20",
+                "distance": 161.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | Nanning - Nongla Scenic Area",
+                "stage_url": "race/tour-of-guangxi/2019/stage-4"
+            },
+            {
+                "date": "10-21",
+                "distance": 212.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Liuzhou - Guilin",
+                "stage_url": "race/tour-of-guangxi/2019/stage-5"
+            },
+            {
+                "date": "10-22",
+                "distance": 168.3,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Guilin - Guilin",
+                "stage_url": "race/tour-of-guangxi/2019/stage-6"
+            }
+        ],
+        "startdate": "2019-10-17",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Il Lombardia": {
+        "category": "Men Elite",
+        "edition": 113,
+        "enddate": "2019-10-12",
+        "is_one_day_race": true,
+        "name": "Il Lombardia",
+        "nationality": "IT",
+        "normalized_relative_url": "race/il-lombardia/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-10-12",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Itzulia Basque Country": {
+        "category": "Men Elite",
+        "edition": 59,
+        "enddate": "2019-04-13",
+        "is_one_day_race": false,
+        "name": "Itzulia Basque Country",
+        "nationality": "ES",
+        "normalized_relative_url": "race/itzulia-basque-country/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "04-08",
+                "distance": 11.3,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 (ITT) | Zumarraga - Zumarraga",
+                "stage_url": "race/itzulia-basque-country/2019/stage-1"
+            },
+            {
+                "date": "04-09",
+                "distance": 149.5,
+                "profile_icon": "p3",
+                "stage_name": "Stage 2 | Zumarraga - Gorraiz",
+                "stage_url": "race/itzulia-basque-country/2019/stage-2"
+            },
+            {
+                "date": "04-10",
+                "distance": 191.4,
+                "profile_icon": "p3",
+                "stage_name": "Stage 3 | Sarriguren - Estibaliz",
+                "stage_url": "race/itzulia-basque-country/2019/stage-3"
+            },
+            {
+                "date": "04-11",
+                "distance": 163.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Vitoria-Gasteiz - Arrigorriaga",
+                "stage_url": "race/itzulia-basque-country/2019/stage-4"
+            },
+            {
+                "date": "04-12",
+                "distance": 149.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Arrigorriaga - Arrate",
+                "stage_url": "race/itzulia-basque-country/2019/stage-5"
+            },
+            {
+                "date": "04-13",
+                "distance": 118.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Eibar - Eibar",
+                "stage_url": "race/itzulia-basque-country/2019/stage-6"
+            }
+        ],
+        "startdate": "2019-04-08",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "La Fl\u00e8che Wallonne": {
+        "category": "Men Elite",
+        "edition": 83,
+        "enddate": "2019-04-24",
+        "is_one_day_race": true,
+        "name": "La Fl\u00e8che Wallonne",
+        "nationality": "BE",
+        "normalized_relative_url": "race/la-fleche-wallone/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-04-24",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "La Vuelta ciclista a Espa\u00f1a": {
+        "category": "Men Elite",
+        "edition": 74,
+        "enddate": "2019-09-15",
+        "is_one_day_race": false,
+        "name": "La Vuelta ciclista a Espa\u00f1a",
+        "nationality": "ES",
+        "normalized_relative_url": "race/vuelta-a-espana/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-24",
+                "distance": 13.4,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (TTT) | Salinas de Torrevieja - Torrevieja ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-1"
+            },
+            {
+                "date": "08-25",
+                "distance": 199.6,
+                "profile_icon": "p4",
+                "stage_name": "Stage 2 | Benidorm - Calpe",
+                "stage_url": "race/vuelta-a-espana/2019/stage-2"
+            },
+            {
+                "date": "08-26",
+                "distance": 188.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Ibi. Ciudad del Juguete - Alicante",
+                "stage_url": "race/vuelta-a-espana/2019/stage-3"
+            },
+            {
+                "date": "08-27",
+                "distance": 175.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Cullera - El Puig",
+                "stage_url": "race/vuelta-a-espana/2019/stage-4"
+            },
+            {
+                "date": "08-28",
+                "distance": 170.7,
+                "profile_icon": "p5",
+                "stage_name": "Stage 5 | L\u2019Eliana - Observatorio Astrof\u00edsico de Javalambre ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-5"
+            },
+            {
+                "date": "08-29",
+                "distance": 198.9,
+                "profile_icon": "p3",
+                "stage_name": "Stage 6 | Mora de Rubielos - Ares del Maestrat ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-6"
+            },
+            {
+                "date": "08-30",
+                "distance": 183.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Onda - Mas de la Costa",
+                "stage_url": "race/vuelta-a-espana/2019/stage-7"
+            },
+            {
+                "date": "08-31",
+                "distance": 166.9,
+                "profile_icon": "p2",
+                "stage_name": "Stage 8 | Valls - Igualada",
+                "stage_url": "race/vuelta-a-espana/2019/stage-8"
+            },
+            {
+                "date": "09-01",
+                "distance": 94.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 9 | Andorra la Vella - Cortals d\u2019Encamp ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-9"
+            },
+            {
+                "date": "09-03",
+                "distance": 36.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 10 (ITT) | Juran\u00e7on - Pau",
+                "stage_url": "race/vuelta-a-espana/2019/stage-10"
+            },
+            {
+                "date": "09-04",
+                "distance": 180.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 11 | Saint-Palais - Urdax-Dantxarinea",
+                "stage_url": "race/vuelta-a-espana/2019/stage-11"
+            },
+            {
+                "date": "09-05",
+                "distance": 171.4,
+                "profile_icon": "p2",
+                "stage_name": "Stage 12 | Circuito de Navarra - Bilbao",
+                "stage_url": "race/vuelta-a-espana/2019/stage-12"
+            },
+            {
+                "date": "09-06",
+                "distance": 166.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 13 | Bilbao - Los Machucos. Monumento Vaca Pasiega",
+                "stage_url": "race/vuelta-a-espana/2019/stage-13"
+            },
+            {
+                "date": "09-07",
+                "distance": 188.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 14 | San Vicente de la Barquer - Oviedo ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-14"
+            },
+            {
+                "date": "09-08",
+                "distance": 154.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 15 | Tineo - Santuario del Acebo",
+                "stage_url": "race/vuelta-a-espana/2019/stage-15"
+            },
+            {
+                "date": "09-09",
+                "distance": 144.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 16 | Pravia - Alto de La Cubilla. Lena",
+                "stage_url": "race/vuelta-a-espana/2019/stage-16"
+            },
+            {
+                "date": "09-11",
+                "distance": 219.6,
+                "profile_icon": "p3",
+                "stage_name": "Stage 17 | Aranda de Duero - Guadalajara ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-17"
+            },
+            {
+                "date": "09-12",
+                "distance": 178.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 18 | Colmenar Viejo - Becerril de la Sierra ",
+                "stage_url": "race/vuelta-a-espana/2019/stage-18"
+            },
+            {
+                "date": "09-13",
+                "distance": 165.2,
+                "profile_icon": "p3",
+                "stage_name": "Stage 19 | \u00c1vila - Toledo",
+                "stage_url": "race/vuelta-a-espana/2019/stage-19"
+            },
+            {
+                "date": "09-14",
+                "distance": 190.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 20 | Arenas de San Pedro - Plataforma de Gredos",
+                "stage_url": "race/vuelta-a-espana/2019/stage-20"
+            },
+            {
+                "date": "09-15",
+                "distance": 106.6,
+                "profile_icon": "p1",
+                "stage_name": "Stage 21 | Fuenlabrada - Madrid",
+                "stage_url": "race/vuelta-a-espana/2019/stage-21"
+            }
+        ],
+        "startdate": "2019-08-24",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Li\u00e8ge-Bastogne-Li\u00e8ge": {
+        "category": "Men Elite",
+        "edition": 105,
+        "enddate": "2019-04-28",
+        "is_one_day_race": true,
+        "name": "Li\u00e8ge-Bastogne-Li\u00e8ge",
+        "nationality": "BE",
+        "normalized_relative_url": "race/liege-bastogne-liege/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-04-28",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Milano-Sanremo": {
+        "category": "Men Elite",
+        "edition": 110,
+        "enddate": "2019-03-23",
+        "is_one_day_race": true,
+        "name": "Milano-Sanremo",
+        "nationality": "IT",
+        "normalized_relative_url": "race/milano-sanremo/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-03-23",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Omloop Het Nieuwsblad ME": {
+        "category": "Men Elite",
+        "edition": 74,
+        "enddate": "2019-03-02",
+        "is_one_day_race": true,
+        "name": "Omloop Het Nieuwsblad ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/omloop-het-nieuwsblad/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-03-02",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Paris - Nice": {
+        "category": "Men Elite",
+        "edition": 77,
+        "enddate": "2019-03-17",
+        "is_one_day_race": false,
+        "name": "Paris - Nice",
+        "nationality": "FR",
+        "normalized_relative_url": "race/paris-nice/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-10",
+                "distance": 138.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Saint-Germain-en-Laye - Saint-Germain-en-Laye",
+                "stage_url": "race/paris-nice/2019/stage-1"
+            },
+            {
+                "date": "03-11",
+                "distance": 163.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Les Br\u00e9viaires - Bellegarde",
+                "stage_url": "race/paris-nice/2019/stage-2"
+            },
+            {
+                "date": "03-12",
+                "distance": 200.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Cepoy - Moulins/Yzeure",
+                "stage_url": "race/paris-nice/2019/stage-3"
+            },
+            {
+                "date": "03-13",
+                "distance": 212.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Vichy - P\u00e9lussin",
+                "stage_url": "race/paris-nice/2019/stage-4"
+            },
+            {
+                "date": "03-14",
+                "distance": 25.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 (ITT) | Barbentane - Barbentane",
+                "stage_url": "race/paris-nice/2019/stage-5"
+            },
+            {
+                "date": "03-15",
+                "distance": 176.5,
+                "profile_icon": "p4",
+                "stage_name": "Stage 6 | Peynier - Brignoles",
+                "stage_url": "race/paris-nice/2019/stage-6"
+            },
+            {
+                "date": "03-16",
+                "distance": 181.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Nice - Col de Turini",
+                "stage_url": "race/paris-nice/2019/stage-7"
+            },
+            {
+                "date": "03-17",
+                "distance": 110.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 8 | Nice - Nice",
+                "stage_url": "race/paris-nice/2019/stage-8"
+            }
+        ],
+        "startdate": "2019-03-10",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Paris-Roubaix": {
+        "category": "Men Elite",
+        "edition": 117,
+        "enddate": "2019-04-14",
+        "is_one_day_race": true,
+        "name": "Paris-Roubaix",
+        "nationality": "FR",
+        "normalized_relative_url": "race/paris-roubaix/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-04-14",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Ronde van Vlaanderen - Tour des Flandres ME": {
+        "category": "Men Elite",
+        "edition": 103,
+        "enddate": "2019-04-07",
+        "is_one_day_race": true,
+        "name": "Ronde van Vlaanderen - Tour des Flandres ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/ronde-van-vlaanderen/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-04-07",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Santos Tour Down Under": {
+        "category": "Men Elite",
+        "edition": 21,
+        "enddate": "2019-01-20",
+        "is_one_day_race": false,
+        "name": "Santos Tour Down Under",
+        "nationality": "AU",
+        "normalized_relative_url": "race/tour-down-under/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "01-15",
+                "distance": 129.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | North Adelaide - Port Adelaide",
+                "stage_url": "race/tour-down-under/2019/stage-1"
+            },
+            {
+                "date": "01-16",
+                "distance": 122.1,
+                "profile_icon": "p3",
+                "stage_name": "Stage 2 | Norwood - Angaston",
+                "stage_url": "race/tour-down-under/2019/stage-2"
+            },
+            {
+                "date": "01-17",
+                "distance": 146.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Lobethal - Uraidla ",
+                "stage_url": "race/tour-down-under/2019/stage-3"
+            },
+            {
+                "date": "01-18",
+                "distance": 129.2,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Unley - Campbelltown",
+                "stage_url": "race/tour-down-under/2019/stage-4"
+            },
+            {
+                "date": "01-19",
+                "distance": 149.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Glenelg - Strathalbyn",
+                "stage_url": "race/tour-down-under/2019/stage-5"
+            },
+            {
+                "date": "01-20",
+                "distance": 151.5,
+                "profile_icon": "p3",
+                "stage_name": "Stage 6 | McLaren Vale - Willunga Hill",
+                "stage_url": "race/tour-down-under/2019/stage-6"
+            }
+        ],
+        "startdate": "2019-01-15",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Strade Bianche": {
+        "category": "Men Elite",
+        "edition": 13,
+        "enddate": "2019-03-09",
+        "is_one_day_race": true,
+        "name": "Strade Bianche",
+        "nationality": "IT",
+        "normalized_relative_url": "race/strade-bianche/2019/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2019-03-09",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Tirreno-Adriatico": {
+        "category": "Men Elite",
+        "edition": 54,
+        "enddate": "2019-03-19",
+        "is_one_day_race": false,
+        "name": "Tirreno-Adriatico",
+        "nationality": "IT",
+        "normalized_relative_url": "race/tirreno-adriatico/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-13",
+                "distance": 21.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (TTT) | Lido di Camaiore - Lido di Camaiore",
+                "stage_url": "race/tirreno-adriatico/2019/stage-1"
+            },
+            {
+                "date": "03-14",
+                "distance": 195.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 2 | Camaiore - Pomarance",
+                "stage_url": "race/tirreno-adriatico/2019/stage-2"
+            },
+            {
+                "date": "03-15",
+                "distance": 226.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Pomarance - Foligno",
+                "stage_url": "race/tirreno-adriatico/2019/stage-3"
+            },
+            {
+                "date": "03-16",
+                "distance": 221.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Foligno - Fossombrone",
+                "stage_url": "race/tirreno-adriatico/2019/stage-4"
+            },
+            {
+                "date": "03-17",
+                "distance": 180.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Colli al Metauro - Recanati",
+                "stage_url": "race/tirreno-adriatico/2019/stage-5"
+            },
+            {
+                "date": "03-18",
+                "distance": 195.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Matelica - Jesi",
+                "stage_url": "race/tirreno-adriatico/2019/stage-6"
+            },
+            {
+                "date": "03-19",
+                "distance": 10.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 7 (ITT) | San Benedetto del Tronto - San Benedetto del Tronto",
+                "stage_url": "race/tirreno-adriatico/2019/stage-7"
+            }
+        ],
+        "startdate": "2019-03-13",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Tour de France": {
+        "category": "Men Elite",
+        "edition": 106,
+        "enddate": "2019-07-28",
+        "is_one_day_race": false,
+        "name": "Tour de France",
+        "nationality": "FR",
+        "normalized_relative_url": "race/tour-de-france/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "07-06",
+                "distance": 194.5,
+                "profile_icon": "p3",
+                "stage_name": "Stage 1 | Brussels - Brussels",
+                "stage_url": "race/tour-de-france/2019/stage-1"
+            },
+            {
+                "date": "07-07",
+                "distance": 27.6,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 (TTT) | Brussels - Brussels",
+                "stage_url": "race/tour-de-france/2019/stage-2"
+            },
+            {
+                "date": "07-08",
+                "distance": 215.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 3 | Binche - \u00c9pernay",
+                "stage_url": "race/tour-de-france/2019/stage-3"
+            },
+            {
+                "date": "07-09",
+                "distance": 213.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Reims - Nancy",
+                "stage_url": "race/tour-de-france/2019/stage-4"
+            },
+            {
+                "date": "07-10",
+                "distance": 175.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Saint-Di\u00e9-des-Vosges - Colmar",
+                "stage_url": "race/tour-de-france/2019/stage-5"
+            },
+            {
+                "date": "07-11",
+                "distance": 160.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Mulhouse - La Planche des Belles Filles",
+                "stage_url": "race/tour-de-france/2019/stage-6"
+            },
+            {
+                "date": "07-12",
+                "distance": 230.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Belfort - Chalon-sur-Sa\u00f4ne",
+                "stage_url": "race/tour-de-france/2019/stage-7"
+            },
+            {
+                "date": "07-13",
+                "distance": 200.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 8 | M\u00e2con - Saint-\u00c9tienne",
+                "stage_url": "race/tour-de-france/2019/stage-8"
+            },
+            {
+                "date": "07-14",
+                "distance": 170.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 9 | Saint-\u00c9tienne - Brioude",
+                "stage_url": "race/tour-de-france/2019/stage-9"
+            },
+            {
+                "date": "07-15",
+                "distance": 217.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 10 | Saint-Flour - Albi",
+                "stage_url": "race/tour-de-france/2019/stage-10"
+            },
+            {
+                "date": "07-17",
+                "distance": 167.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 11 | Albi - Toulouse",
+                "stage_url": "race/tour-de-france/2019/stage-11"
+            },
+            {
+                "date": "07-18",
+                "distance": 209.5,
+                "profile_icon": "p4",
+                "stage_name": "Stage 12 | Toulouse - Bagn\u00e8res-de-Bigorre",
+                "stage_url": "race/tour-de-france/2019/stage-12"
+            },
+            {
+                "date": "07-19",
+                "distance": 27.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 13 (ITT) | Pau - Pau",
+                "stage_url": "race/tour-de-france/2019/stage-13"
+            },
+            {
+                "date": "07-20",
+                "distance": 111.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 14 | Tarbes - Col du Tourmalet",
+                "stage_url": "race/tour-de-france/2019/stage-14"
+            },
+            {
+                "date": "07-21",
+                "distance": 185.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 15 | Limoux - Foix",
+                "stage_url": "race/tour-de-france/2019/stage-15"
+            },
+            {
+                "date": "07-23",
+                "distance": 177.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 16 | N\u00eemes - N\u00eemes",
+                "stage_url": "race/tour-de-france/2019/stage-16"
+            },
+            {
+                "date": "07-24",
+                "distance": 200.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 17 | Pont du Gard - Gap",
+                "stage_url": "race/tour-de-france/2019/stage-17"
+            },
+            {
+                "date": "07-25",
+                "distance": 208.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 18 | Embrun - Valloire",
+                "stage_url": "race/tour-de-france/2019/stage-18"
+            },
+            {
+                "date": "07-26",
+                "distance": 89.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 19 | Saint-Jean-de-Maurienne - Tignes",
+                "stage_url": "race/tour-de-france/2019/stage-19"
+            },
+            {
+                "date": "07-27",
+                "distance": 59.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 20 | Albertville - Val Thorens",
+                "stage_url": "race/tour-de-france/2019/stage-20"
+            },
+            {
+                "date": "07-28",
+                "distance": 128.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 21 | Rambouillet - Paris",
+                "stage_url": "race/tour-de-france/2019/stage-21"
+            }
+        ],
+        "startdate": "2019-07-06",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Tour de Pologne": {
+        "category": "Men Elite",
+        "edition": 76,
+        "enddate": "2019-08-09",
+        "is_one_day_race": false,
+        "name": "Tour de Pologne",
+        "nationality": "PL",
+        "normalized_relative_url": "race/tour-de-pologne/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-03",
+                "distance": 132.3,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Krak\u00f3w - Krak\u00f3w",
+                "stage_url": "race/tour-de-pologne/2019/stage-1"
+            },
+            {
+                "date": "08-04",
+                "distance": 152.7,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Tarnowskie G\u00f3ry - Katowice",
+                "stage_url": "race/tour-de-pologne/2019/stage-2"
+            },
+            {
+                "date": "08-05",
+                "distance": 150.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Chorz\u00f3w - Zabrze",
+                "stage_url": "race/tour-de-pologne/2019/stage-3"
+            },
+            {
+                "date": "08-06",
+                "distance": 133.7,
+                "profile_icon": "p3",
+                "stage_name": "Stage 4 | Jaworzno - Kocierz",
+                "stage_url": "race/tour-de-pologne/2019/stage-4"
+            },
+            {
+                "date": "08-07",
+                "distance": 153.8,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Wieliczka - Bielsko-Bia\u0142a",
+                "stage_url": "race/tour-de-pologne/2019/stage-5"
+            },
+            {
+                "date": "08-08",
+                "distance": 160.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Zakopane - Ko\u015bcielisko",
+                "stage_url": "race/tour-de-pologne/2019/stage-6"
+            },
+            {
+                "date": "08-09",
+                "distance": 153.3,
+                "profile_icon": "p3",
+                "stage_name": "Stage 7 | Bukovina Resort - Bukowina Tatrza\u0144ska",
+                "stage_url": "race/tour-de-pologne/2019/stage-7"
+            }
+        ],
+        "startdate": "2019-08-03",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Tour de Romandie": {
+        "category": "Men Elite",
+        "edition": 73,
+        "enddate": "2019-05-05",
+        "is_one_day_race": false,
+        "name": "Tour de Romandie",
+        "nationality": "CH",
+        "normalized_relative_url": "race/tour-de-romandie/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "04-30",
+                "distance": 3.87,
+                "profile_icon": "p1",
+                "stage_name": "Prologue | Neuch\u00e2tel - Neuch\u00e2tel",
+                "stage_url": "race/tour-de-romandie/2019/prologue"
+            },
+            {
+                "date": "05-01",
+                "distance": 168.4,
+                "profile_icon": "p4",
+                "stage_name": "Stage 1 | Neuch\u00e2tel - La Chaux-de-Fonds",
+                "stage_url": "race/tour-de-romandie/2019/stage-1"
+            },
+            {
+                "date": "05-02",
+                "distance": 174.4,
+                "profile_icon": "p4",
+                "stage_name": "Stage 2 | Le Locle - Morges",
+                "stage_url": "race/tour-de-romandie/2019/stage-2"
+            },
+            {
+                "date": "05-03",
+                "distance": 160.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 3 | Romont - Romont",
+                "stage_url": "race/tour-de-romandie/2019/stage-3"
+            },
+            {
+                "date": "05-04",
+                "distance": 107.6,
+                "profile_icon": "p4",
+                "stage_name": "Stage 4 | Lucens - Torgon",
+                "stage_url": "race/tour-de-romandie/2019/stage-4"
+            },
+            {
+                "date": "05-05",
+                "distance": 16.85,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 (ITT) | Gen\u00e8ve - Gen\u00e8ve",
+                "stage_url": "race/tour-de-romandie/2019/stage-5"
+            }
+        ],
+        "startdate": "2019-04-30",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Tour de Suisse": {
+        "category": "Men Elite",
+        "edition": 83,
+        "enddate": "2019-06-23",
+        "is_one_day_race": false,
+        "name": "Tour de Suisse",
+        "nationality": "CH",
+        "normalized_relative_url": "race/tour-de-suisse/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "06-15",
+                "distance": 9.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (ITT) | Langnau im Emmental - Langnau im Emmental",
+                "stage_url": "race/tour-de-suisse/2019/stage-1"
+            },
+            {
+                "date": "06-16",
+                "distance": 159.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Langnau im Emmental - Langnau im Emmental",
+                "stage_url": "race/tour-de-suisse/2019/stage-2"
+            },
+            {
+                "date": "06-17",
+                "distance": 162.3,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Flamatt - Murten",
+                "stage_url": "race/tour-de-suisse/2019/stage-3"
+            },
+            {
+                "date": "06-18",
+                "distance": 163.9,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Murten - Arlesheim",
+                "stage_url": "race/tour-de-suisse/2019/stage-4"
+            },
+            {
+                "date": "06-19",
+                "distance": 177.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 5 | M\u00fcnchenstein - Einsiedeln",
+                "stage_url": "race/tour-de-suisse/2019/stage-5"
+            },
+            {
+                "date": "06-20",
+                "distance": 120.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Einsiedeln - Flumserberg",
+                "stage_url": "race/tour-de-suisse/2019/stage-6"
+            },
+            {
+                "date": "06-21",
+                "distance": 216.6,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Unterterzen - St. Gotthard",
+                "stage_url": "race/tour-de-suisse/2019/stage-7"
+            },
+            {
+                "date": "06-22",
+                "distance": 19.2,
+                "profile_icon": "p1",
+                "stage_name": "Stage 8 (ITT) | Goms - Goms",
+                "stage_url": "race/tour-de-suisse/2019/stage-8"
+            },
+            {
+                "date": "06-23",
+                "distance": 101.5,
+                "profile_icon": "p4",
+                "stage_name": "Stage 9 | Goms - Goms",
+                "stage_url": "race/tour-de-suisse/2019/stage-9"
+            }
+        ],
+        "startdate": "2019-06-15",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "UAE Tour": {
+        "category": "Men Elite",
+        "edition": 1,
+        "enddate": "2019-03-02",
+        "is_one_day_race": false,
+        "name": "UAE Tour",
+        "nationality": "AE",
+        "normalized_relative_url": "race/uae-tour/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "02-24",
+                "distance": 16.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (TTT) | Al Hudayriat Island - Al Hudayriat Island",
+                "stage_url": "race/uae-tour/2019/stage-1"
+            },
+            {
+                "date": "02-25",
+                "distance": 184.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Yas Island - Abu Dhabi Big Flag",
+                "stage_url": "race/uae-tour/2019/stage-2"
+            },
+            {
+                "date": "02-26",
+                "distance": 179.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | UAE University - Jebel Hafeet",
+                "stage_url": "race/uae-tour/2019/stage-3"
+            },
+            {
+                "date": "02-27",
+                "distance": 197.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 4 | Palm Jumeirah - Hatta Dam",
+                "stage_url": "race/uae-tour/2019/stage-4"
+            },
+            {
+                "date": "02-28",
+                "distance": 181.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Flag Island - Khor Fakkan",
+                "stage_url": "race/uae-tour/2019/stage-5"
+            },
+            {
+                "date": "03-01",
+                "distance": 180.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Ajman - Jebel Jais",
+                "stage_url": "race/uae-tour/2019/stage-6"
+            },
+            {
+                "date": "03-02",
+                "distance": 145.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 7 | Dubai Safari Park - City Walk",
+                "stage_url": "race/uae-tour/2019/stage-7"
+            }
+        ],
+        "startdate": "2019-02-24",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    },
+    "Volta Ciclista a Catalunya": {
+        "category": "Men Elite",
+        "edition": 99,
+        "enddate": "2019-03-31",
+        "is_one_day_race": false,
+        "name": "Volta Ciclista a Catalunya",
+        "nationality": "ES",
+        "normalized_relative_url": "race/volta-a-catalunya/2019/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-25",
+                "distance": 163.7,
+                "profile_icon": "p4",
+                "stage_name": "Stage 1 | Calella - Calella",
+                "stage_url": "race/volta-a-catalunya/2019/stage-1"
+            },
+            {
+                "date": "03-26",
+                "distance": 166.7,
+                "profile_icon": "p3",
+                "stage_name": "Stage 2 | Matar\u00f3 - Sant Feliu de Guixols",
+                "stage_url": "race/volta-a-catalunya/2019/stage-2"
+            },
+            {
+                "date": "03-27",
+                "distance": 179.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Sant Feliu de Guixols - Vallter 2000 (Setcases)",
+                "stage_url": "race/volta-a-catalunya/2019/stage-3"
+            },
+            {
+                "date": "03-28",
+                "distance": 150.3,
+                "profile_icon": "p4",
+                "stage_name": "Stage 4 | Llanars (Vall de Camprodon) - La Molina (Alp)",
+                "stage_url": "race/volta-a-catalunya/2019/stage-4"
+            },
+            {
+                "date": "03-29",
+                "distance": 188.1,
+                "profile_icon": "p4",
+                "stage_name": "Stage 5 | Puigcerd\u00e0 - Sant Cugat del Vall\u00e8s",
+                "stage_url": "race/volta-a-catalunya/2019/stage-5"
+            },
+            {
+                "date": "03-30",
+                "distance": 169.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Valls - Vila-seca",
+                "stage_url": "race/volta-a-catalunya/2019/stage-6"
+            },
+            {
+                "date": "03-31",
+                "distance": 143.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Barcelona - Barcelona",
+                "stage_url": "race/volta-a-catalunya/2019/stage-7"
+            }
+        ],
+        "startdate": "2019-03-25",
+        "uci_tour": "UCI Worldtour",
+        "year": 2019
+    }
+}

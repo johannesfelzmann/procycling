@@ -1,0 +1,1245 @@
+{
+    "AG Driedaagse Brugge-De Panne ME": {
+        "category": "Men Elite",
+        "edition": 44,
+        "enddate": "2020-10-21",
+        "is_one_day_race": true,
+        "name": "AG Driedaagse Brugge-De Panne ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/oxyclean-classic-brugge-de-panne/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-21",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Amstel Gold Race": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-10-10",
+        "is_one_day_race": true,
+        "name": "Amstel Gold Race",
+        "nationality": "NL",
+        "normalized_relative_url": "race/amstel-gold-race/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-10",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "BinckBank Tour": {
+        "category": "Men Elite",
+        "edition": 16,
+        "enddate": "2020-10-03",
+        "is_one_day_race": false,
+        "name": "BinckBank Tour",
+        "nationality": "BE",
+        "normalized_relative_url": "race/benelux-tour/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "09-29",
+                "distance": 132.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | Blankenberge - Ardooie",
+                "stage_url": "race/benelux-tour/2020/stage-1"
+            },
+            {
+                "date": "09-30",
+                "distance": 10.9,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 (ITT) | Vlissingen - Vlissingen",
+                "stage_url": "race/benelux-tour/2020/stage-2"
+            },
+            {
+                "date": "10-01",
+                "distance": 157.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Aalter - Aalter",
+                "stage_url": "race/benelux-tour/2020/stage-3"
+            },
+            {
+                "date": "10-02",
+                "distance": 8.14,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 (ITT) | Riemst - Riemst",
+                "stage_url": "race/benelux-tour/2020/stage-4"
+            },
+            {
+                "date": "10-03",
+                "distance": 183.6,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Ottignies-Louvain-la-Neuve - Geraardsbergen",
+                "stage_url": "race/benelux-tour/2020/stage-5"
+            }
+        ],
+        "startdate": "2020-09-29",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Bretagne Classic - Ouest-France": {
+        "category": "Men Elite",
+        "edition": 84,
+        "enddate": "2020-08-25",
+        "is_one_day_race": true,
+        "name": "Bretagne Classic - Ouest-France",
+        "nationality": "FR",
+        "normalized_relative_url": "race/bretagne-classic/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-08-25",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Cadel Evans Great Ocean Road Race": {
+        "category": "Men Elite",
+        "edition": 6,
+        "enddate": "2020-02-02",
+        "is_one_day_race": true,
+        "name": "Cadel Evans Great Ocean Road Race",
+        "nationality": "AU",
+        "normalized_relative_url": "race/great-ocean-race/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-02-02",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Crit\u00e9rium du Dauphin\u00e9": {
+        "category": "Men Elite",
+        "edition": 72,
+        "enddate": "2020-08-16",
+        "is_one_day_race": false,
+        "name": "Crit\u00e9rium du Dauphin\u00e9",
+        "nationality": "FR",
+        "normalized_relative_url": "race/dauphine/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-12",
+                "distance": 218.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 1 | Clermont-Ferrand - Saint-Christo-en-Jarez",
+                "stage_url": "race/dauphine/2020/stage-1"
+            },
+            {
+                "date": "08-13",
+                "distance": 135.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 2 | Vienne - Col de Porte",
+                "stage_url": "race/dauphine/2020/stage-2"
+            },
+            {
+                "date": "08-14",
+                "distance": 157.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Corenc - Saint-Martin-de-Belleville",
+                "stage_url": "race/dauphine/2020/stage-3"
+            },
+            {
+                "date": "08-15",
+                "distance": 148.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | Ugine - Meg\u00e8ve",
+                "stage_url": "race/dauphine/2020/stage-4"
+            },
+            {
+                "date": "08-16",
+                "distance": 142.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 5 | Meg\u00e8ve - Meg\u00e8ve",
+                "stage_url": "race/dauphine/2020/stage-5"
+            }
+        ],
+        "startdate": "2020-08-12",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Donostia San Sebastian Klasikoa": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-07-25",
+        "is_one_day_race": true,
+        "name": "Donostia San Sebastian Klasikoa",
+        "nationality": "ES",
+        "normalized_relative_url": "race/san-sebastian/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-07-25",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Dwars door Vlaanderen - A travers la Flandre ME": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-10-14",
+        "is_one_day_race": true,
+        "name": "Dwars door Vlaanderen - A travers la Flandre ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/dwars-door-vlaanderen/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-14",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "E3 BinckBank Classic": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-03-27",
+        "is_one_day_race": true,
+        "name": "E3 BinckBank Classic",
+        "nationality": "BE",
+        "normalized_relative_url": "race/e3-harelbeke/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-03-27",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Eschborn-Frankfurt": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-05-01",
+        "is_one_day_race": true,
+        "name": "Eschborn-Frankfurt",
+        "nationality": "DE",
+        "normalized_relative_url": "race/eschborn-frankfurt/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-05-01",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "EuroEyes Cyclassics Hamburg": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-10-03",
+        "is_one_day_race": true,
+        "name": "EuroEyes Cyclassics Hamburg",
+        "nationality": "DE",
+        "normalized_relative_url": "race/cyclassics-hamburg/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-03",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Gent-Wevelgem in Flanders Fields ME": {
+        "category": "Men Elite",
+        "edition": 82,
+        "enddate": "2020-10-11",
+        "is_one_day_race": true,
+        "name": "Gent-Wevelgem in Flanders Fields ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/gent-wevelgem/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-11",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Giro d'Italia": {
+        "category": "Men Elite",
+        "edition": 103,
+        "enddate": "2020-10-25",
+        "is_one_day_race": false,
+        "name": "Giro d'Italia",
+        "nationality": "IT",
+        "normalized_relative_url": "race/giro-d-italia/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "10-03",
+                "distance": 15.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 (ITT) | Monreale - Palermo",
+                "stage_url": "race/giro-d-italia/2020/stage-1"
+            },
+            {
+                "date": "10-04",
+                "distance": 149.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 2 | Alcamo - Agrigento",
+                "stage_url": "race/giro-d-italia/2020/stage-2"
+            },
+            {
+                "date": "10-05",
+                "distance": 150.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Enna - Etna",
+                "stage_url": "race/giro-d-italia/2020/stage-3"
+            },
+            {
+                "date": "10-06",
+                "distance": 140.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 4 | Catania - Villafranca Tirrena",
+                "stage_url": "race/giro-d-italia/2020/stage-4"
+            },
+            {
+                "date": "10-07",
+                "distance": 225.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 5 | Mileto - Camigliatello Silano",
+                "stage_url": "race/giro-d-italia/2020/stage-5"
+            },
+            {
+                "date": "10-08",
+                "distance": 188.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Castrovillari - Matera",
+                "stage_url": "race/giro-d-italia/2020/stage-6"
+            },
+            {
+                "date": "10-09",
+                "distance": 143.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 7 | Matera - Brindisi",
+                "stage_url": "race/giro-d-italia/2020/stage-7"
+            },
+            {
+                "date": "10-10",
+                "distance": 200.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 8 | Giovinazzo - Vieste",
+                "stage_url": "race/giro-d-italia/2020/stage-8"
+            },
+            {
+                "date": "10-11",
+                "distance": 208.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 9 | San Salvo - Roccaraso",
+                "stage_url": "race/giro-d-italia/2020/stage-9"
+            },
+            {
+                "date": "10-13",
+                "distance": 177.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 10 | Lanciano - Tortoreto",
+                "stage_url": "race/giro-d-italia/2020/stage-10"
+            },
+            {
+                "date": "10-14",
+                "distance": 182.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 11 | Porto Sant'Elpidio - Rimini",
+                "stage_url": "race/giro-d-italia/2020/stage-11"
+            },
+            {
+                "date": "10-15",
+                "distance": 204.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 12 | Cesenatico - Cesenatico",
+                "stage_url": "race/giro-d-italia/2020/stage-12"
+            },
+            {
+                "date": "10-16",
+                "distance": 192.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 13 | Cervia - Monselice",
+                "stage_url": "race/giro-d-italia/2020/stage-13"
+            },
+            {
+                "date": "10-17",
+                "distance": 34.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 14 (ITT) | Conegliano - Valdobbiadene",
+                "stage_url": "race/giro-d-italia/2020/stage-14"
+            },
+            {
+                "date": "10-18",
+                "distance": 185.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 15 | Base Aerea Rivolto - Piancavallo",
+                "stage_url": "race/giro-d-italia/2020/stage-15"
+            },
+            {
+                "date": "10-20",
+                "distance": 229.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 16 | Udine - San Daniele del Friuli",
+                "stage_url": "race/giro-d-italia/2020/stage-16"
+            },
+            {
+                "date": "10-21",
+                "distance": 203.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 17 | Bassano del Grappa - Madonna di Campiglio",
+                "stage_url": "race/giro-d-italia/2020/stage-17"
+            },
+            {
+                "date": "10-22",
+                "distance": 207.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 18 | Pinzolo - Laghi di Cancano",
+                "stage_url": "race/giro-d-italia/2020/stage-18"
+            },
+            {
+                "date": "10-23",
+                "distance": 124.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 19 | Abbiategrasso - Asti",
+                "stage_url": "race/giro-d-italia/2020/stage-19"
+            },
+            {
+                "date": "10-24",
+                "distance": 190.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 20 | Alba - Sestriere",
+                "stage_url": "race/giro-d-italia/2020/stage-20"
+            },
+            {
+                "date": "10-25",
+                "distance": 15.7,
+                "profile_icon": "p1",
+                "stage_name": "Stage 21 (ITT) | Cernusco sul Naviglio - Milan",
+                "stage_url": "race/giro-d-italia/2020/stage-21"
+            }
+        ],
+        "startdate": "2020-10-03",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Grand Prix Cycliste de Montr\u00e9al": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-09-13",
+        "is_one_day_race": true,
+        "name": "Grand Prix Cycliste de Montr\u00e9al",
+        "nationality": "CA",
+        "normalized_relative_url": "race/gp-montreal/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-09-13",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Grand Prix Cycliste de Qu\u00e9bec": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-09-11",
+        "is_one_day_race": true,
+        "name": "Grand Prix Cycliste de Qu\u00e9bec",
+        "nationality": "CA",
+        "normalized_relative_url": "race/gp-quebec/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-09-11",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Gree-Tour of Guangxi": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-11-10",
+        "is_one_day_race": false,
+        "name": "Gree-Tour of Guangxi",
+        "nationality": "CN",
+        "normalized_relative_url": "race/tour-of-guangxi/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "11-05",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 |  - ",
+                "stage_url": "race/tour-of-guangxi/2020/stage-1"
+            },
+            {
+                "date": "11-06",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 |  - ",
+                "stage_url": "race/tour-of-guangxi/2020/stage-2"
+            },
+            {
+                "date": "11-07",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 |  - ",
+                "stage_url": "race/tour-of-guangxi/2020/stage-3"
+            },
+            {
+                "date": "11-08",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 |  - ",
+                "stage_url": "race/tour-of-guangxi/2020/stage-4"
+            },
+            {
+                "date": "11-09",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 |  - ",
+                "stage_url": "race/tour-of-guangxi/2020/stage-5"
+            },
+            {
+                "date": "11-10",
+                "distance": 0.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 6 |  - ",
+                "stage_url": "race/tour-of-guangxi/2020/stage-6"
+            }
+        ],
+        "startdate": "2020-11-05",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Il Lombardia": {
+        "category": "Men Elite",
+        "edition": 114,
+        "enddate": "2020-08-15",
+        "is_one_day_race": true,
+        "name": "Il Lombardia",
+        "nationality": "IT",
+        "normalized_relative_url": "race/il-lombardia/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-08-15",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Itzulia Basque Country": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-04-11",
+        "is_one_day_race": true,
+        "name": "Itzulia Basque Country",
+        "nationality": "ES",
+        "normalized_relative_url": "race/itzulia-basque-country/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-04-06",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "La Fl\u00e8che Wallonne": {
+        "category": "Men Elite",
+        "edition": 84,
+        "enddate": "2020-09-30",
+        "is_one_day_race": true,
+        "name": "La Fl\u00e8che Wallonne",
+        "nationality": "BE",
+        "normalized_relative_url": "race/la-fleche-wallone/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-09-30",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "La Vuelta ciclista a Espa\u00f1a": {
+        "category": "Men Elite",
+        "edition": 75,
+        "enddate": "2020-11-08",
+        "is_one_day_race": false,
+        "name": "La Vuelta ciclista a Espa\u00f1a",
+        "nationality": "ES",
+        "normalized_relative_url": "race/vuelta-a-espana/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "10-20",
+                "distance": 173.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | Ir\u00fan - Arrate",
+                "stage_url": "race/vuelta-a-espana/2020/stage-1"
+            },
+            {
+                "date": "10-21",
+                "distance": 151.6,
+                "profile_icon": "p4",
+                "stage_name": "Stage 2 | Pamplona - Lekunberri",
+                "stage_url": "race/vuelta-a-espana/2020/stage-2"
+            },
+            {
+                "date": "10-22",
+                "distance": 166.1,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Lodosa - La Laguna Negra de Vinuesa",
+                "stage_url": "race/vuelta-a-espana/2020/stage-3"
+            },
+            {
+                "date": "10-23",
+                "distance": 191.7,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 | Garray - Ejea de los Caballeros",
+                "stage_url": "race/vuelta-a-espana/2020/stage-4"
+            },
+            {
+                "date": "10-24",
+                "distance": 184.4,
+                "profile_icon": "p3",
+                "stage_name": "Stage 5 | Huesca - Sabi\u00f1anigo",
+                "stage_url": "race/vuelta-a-espana/2020/stage-5"
+            },
+            {
+                "date": "10-25",
+                "distance": 146.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Biescas - Aram\u00f3n Formigal",
+                "stage_url": "race/vuelta-a-espana/2020/stage-6"
+            },
+            {
+                "date": "10-27",
+                "distance": 159.7,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Vitoria-Gasteiz - Villanueva de Valdegovia",
+                "stage_url": "race/vuelta-a-espana/2020/stage-7"
+            },
+            {
+                "date": "10-28",
+                "distance": 164.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 8 | Logro\u00f1o - Alto de Moncalvillo",
+                "stage_url": "race/vuelta-a-espana/2020/stage-8"
+            },
+            {
+                "date": "10-29",
+                "distance": 157.7,
+                "profile_icon": "p1",
+                "stage_name": "Stage 9 | Castrillo del Val - Aguilar de Campoo",
+                "stage_url": "race/vuelta-a-espana/2020/stage-9"
+            },
+            {
+                "date": "10-30",
+                "distance": 185.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 10 | Castro Urdiales - Suances",
+                "stage_url": "race/vuelta-a-espana/2020/stage-10"
+            },
+            {
+                "date": "10-31",
+                "distance": 170.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 11 | Villaviciosa - Alto de la Farrapona",
+                "stage_url": "race/vuelta-a-espana/2020/stage-11"
+            },
+            {
+                "date": "11-01",
+                "distance": 109.4,
+                "profile_icon": "p5",
+                "stage_name": "Stage 12 | Pola de Laviana - Alto de l'Angliru",
+                "stage_url": "race/vuelta-a-espana/2020/stage-12"
+            },
+            {
+                "date": "11-03",
+                "distance": 33.7,
+                "profile_icon": "p3",
+                "stage_name": "Stage 13 (ITT) | Muros - Mirador de \u00c9zaro",
+                "stage_url": "race/vuelta-a-espana/2020/stage-13"
+            },
+            {
+                "date": "11-04",
+                "distance": 204.7,
+                "profile_icon": "p3",
+                "stage_name": "Stage 14 | Lugo - Ourense",
+                "stage_url": "race/vuelta-a-espana/2020/stage-14"
+            },
+            {
+                "date": "11-05",
+                "distance": 230.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 15 | Mos - Puebla de Sanabria",
+                "stage_url": "race/vuelta-a-espana/2020/stage-15"
+            },
+            {
+                "date": "11-06",
+                "distance": 162.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 16 | Salamanca - Ciudad Rodrigo",
+                "stage_url": "race/vuelta-a-espana/2020/stage-16"
+            },
+            {
+                "date": "11-07",
+                "distance": 178.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 17 | Sequeros - Alto de la Covatilla",
+                "stage_url": "race/vuelta-a-espana/2020/stage-17"
+            },
+            {
+                "date": "11-08",
+                "distance": 139.6,
+                "profile_icon": "p2",
+                "stage_name": "Stage 18 | Hip\u00f3dromo de la Zarzuela - Madrid",
+                "stage_url": "race/vuelta-a-espana/2020/stage-18"
+            }
+        ],
+        "startdate": "2020-10-20",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Li\u00e8ge-Bastogne-Li\u00e8ge": {
+        "category": "Men Elite",
+        "edition": 106,
+        "enddate": "2020-10-04",
+        "is_one_day_race": true,
+        "name": "Li\u00e8ge-Bastogne-Li\u00e8ge",
+        "nationality": "BE",
+        "normalized_relative_url": "race/liege-bastogne-liege/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-04",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Milano-Sanremo": {
+        "category": "Men Elite",
+        "edition": 111,
+        "enddate": "2020-08-08",
+        "is_one_day_race": true,
+        "name": "Milano-Sanremo",
+        "nationality": "IT",
+        "normalized_relative_url": "race/milano-sanremo/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-08-08",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Omloop Het Nieuwsblad ME": {
+        "category": "Men Elite",
+        "edition": 75,
+        "enddate": "2020-02-29",
+        "is_one_day_race": true,
+        "name": "Omloop Het Nieuwsblad ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/omloop-het-nieuwsblad/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-02-29",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Paris - Nice": {
+        "category": "Men Elite",
+        "edition": 78,
+        "enddate": "2020-03-15",
+        "is_one_day_race": false,
+        "name": "Paris - Nice",
+        "nationality": "FR",
+        "normalized_relative_url": "race/paris-nice/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "03-08",
+                "distance": 154.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | Plaisir - Plaisir",
+                "stage_url": "race/paris-nice/2020/stage-1"
+            },
+            {
+                "date": "03-09",
+                "distance": 166.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 2 | Chevreuse - Chalette-sur-Loing",
+                "stage_url": "race/paris-nice/2020/stage-2"
+            },
+            {
+                "date": "03-10",
+                "distance": 212.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 3 | Chalette-sur-Loing - La Ch\u00e2tre",
+                "stage_url": "race/paris-nice/2020/stage-3"
+            },
+            {
+                "date": "03-11",
+                "distance": 15.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 (ITT) | Saint-Amand-Montrond - Saint-Amand-Montrond",
+                "stage_url": "race/paris-nice/2020/stage-4"
+            },
+            {
+                "date": "03-12",
+                "distance": 227.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 5 | Gannat - La C\u00f4te-Saint-Andr\u00e9",
+                "stage_url": "race/paris-nice/2020/stage-5"
+            },
+            {
+                "date": "03-13",
+                "distance": 161.5,
+                "profile_icon": "p4",
+                "stage_name": "Stage 6 | Sorgues - Apt",
+                "stage_url": "race/paris-nice/2020/stage-6"
+            },
+            {
+                "date": "03-14",
+                "distance": 166.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 7 | Nice - Valdeblore La Colmiane",
+                "stage_url": "race/paris-nice/2020/stage-7"
+            },
+            {
+                "date": "03-15",
+                "distance": 113.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 8 | Nice - Nice",
+                "stage_url": "race/paris-nice/2020/stage-8"
+            }
+        ],
+        "startdate": "2020-03-08",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Paris-Roubaix": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-10-25",
+        "is_one_day_race": true,
+        "name": "Paris-Roubaix",
+        "nationality": "FR",
+        "normalized_relative_url": "race/paris-roubaix/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-25",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Ronde van Vlaanderen - Tour des Flandres ME": {
+        "category": "Men Elite",
+        "edition": 104,
+        "enddate": "2020-10-18",
+        "is_one_day_race": true,
+        "name": "Ronde van Vlaanderen - Tour des Flandres ME",
+        "nationality": "BE",
+        "normalized_relative_url": "race/ronde-van-vlaanderen/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-10-18",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Santos Tour Down Under": {
+        "category": "Men Elite",
+        "edition": 22,
+        "enddate": "2020-01-26",
+        "is_one_day_race": false,
+        "name": "Santos Tour Down Under",
+        "nationality": "AU",
+        "normalized_relative_url": "race/tour-down-under/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "01-21",
+                "distance": 150.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | Tanunda - Tanunda",
+                "stage_url": "race/tour-down-under/2020/stage-1"
+            },
+            {
+                "date": "01-22",
+                "distance": 135.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Woodside - Stirling",
+                "stage_url": "race/tour-down-under/2020/stage-2"
+            },
+            {
+                "date": "01-23",
+                "distance": 131.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 3 | Unley - Paracombe",
+                "stage_url": "race/tour-down-under/2020/stage-3"
+            },
+            {
+                "date": "01-24",
+                "distance": 152.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 4 | Norwood - Murray Bridge",
+                "stage_url": "race/tour-down-under/2020/stage-4"
+            },
+            {
+                "date": "01-25",
+                "distance": 149.1,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Glenelg - Victor Harbor",
+                "stage_url": "race/tour-down-under/2020/stage-5"
+            },
+            {
+                "date": "01-26",
+                "distance": 151.5,
+                "profile_icon": "p3",
+                "stage_name": "Stage 6 | McLaren Vale - Willunga Hill",
+                "stage_url": "race/tour-down-under/2020/stage-6"
+            }
+        ],
+        "startdate": "2020-01-21",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Strade Bianche": {
+        "category": "Men Elite",
+        "edition": 14,
+        "enddate": "2020-08-01",
+        "is_one_day_race": true,
+        "name": "Strade Bianche",
+        "nationality": "IT",
+        "normalized_relative_url": "race/strade-bianche/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-08-01",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Tirreno-Adriatico": {
+        "category": "Men Elite",
+        "edition": 55,
+        "enddate": "2020-09-14",
+        "is_one_day_race": false,
+        "name": "Tirreno-Adriatico",
+        "nationality": "IT",
+        "normalized_relative_url": "race/tirreno-adriatico/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "09-07",
+                "distance": 133.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | Lido di Camaiore - Lido di Camaiore",
+                "stage_url": "race/tirreno-adriatico/2020/stage-1"
+            },
+            {
+                "date": "09-08",
+                "distance": 201.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Camaiore - Follonica",
+                "stage_url": "race/tirreno-adriatico/2020/stage-2"
+            },
+            {
+                "date": "09-09",
+                "distance": 217.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 3 | Follonica - Saturnia",
+                "stage_url": "race/tirreno-adriatico/2020/stage-3"
+            },
+            {
+                "date": "09-10",
+                "distance": 194.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 4 | Terni - Cascia",
+                "stage_url": "race/tirreno-adriatico/2020/stage-4"
+            },
+            {
+                "date": "09-11",
+                "distance": 202.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 5 | Norcia - Sassotetto",
+                "stage_url": "race/tirreno-adriatico/2020/stage-5"
+            },
+            {
+                "date": "09-12",
+                "distance": 171.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 6 | Castelfidardo - Senigallia",
+                "stage_url": "race/tirreno-adriatico/2020/stage-6"
+            },
+            {
+                "date": "09-13",
+                "distance": 181.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 7 | Pieve Torina - Loreto",
+                "stage_url": "race/tirreno-adriatico/2020/stage-7"
+            },
+            {
+                "date": "09-14",
+                "distance": 10.1,
+                "profile_icon": "p1",
+                "stage_name": "Stage 8 (ITT) | San Benedetto del Tronto - San Benedetto del Tronto",
+                "stage_url": "race/tirreno-adriatico/2020/stage-8"
+            }
+        ],
+        "startdate": "2020-09-07",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Tour de France": {
+        "category": "Men Elite",
+        "edition": 107,
+        "enddate": "2020-09-20",
+        "is_one_day_race": false,
+        "name": "Tour de France",
+        "nationality": "FR",
+        "normalized_relative_url": "race/tour-de-france/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-29",
+                "distance": 156.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | Nice - Nice",
+                "stage_url": "race/tour-de-france/2020/stage-1"
+            },
+            {
+                "date": "08-30",
+                "distance": 185.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 2 | Nice - Nice",
+                "stage_url": "race/tour-de-france/2020/stage-2"
+            },
+            {
+                "date": "08-31",
+                "distance": 198.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 3 | Nice - Sisteron",
+                "stage_url": "race/tour-de-france/2020/stage-3"
+            },
+            {
+                "date": "09-01",
+                "distance": 160.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 4 | Sisteron - Orci\u00e8res-Merlette",
+                "stage_url": "race/tour-de-france/2020/stage-4"
+            },
+            {
+                "date": "09-02",
+                "distance": 183.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 5 | Gap - Privas",
+                "stage_url": "race/tour-de-france/2020/stage-5"
+            },
+            {
+                "date": "09-03",
+                "distance": 191.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 6 | Le Teil - Mont Aigoual",
+                "stage_url": "race/tour-de-france/2020/stage-6"
+            },
+            {
+                "date": "09-04",
+                "distance": 168.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 7 | Millau - Lavaur",
+                "stage_url": "race/tour-de-france/2020/stage-7"
+            },
+            {
+                "date": "09-05",
+                "distance": 141.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 8 | Caz\u00e8res - Loudenvielle",
+                "stage_url": "race/tour-de-france/2020/stage-8"
+            },
+            {
+                "date": "09-06",
+                "distance": 153.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 9 | Pau - Laruns",
+                "stage_url": "race/tour-de-france/2020/stage-9"
+            },
+            {
+                "date": "09-08",
+                "distance": 168.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 10 | \u00eele d'Ol\u00e9ron (Le Ch\u00e2teau-d'Ol\u00e9ron) - \u00cele de R\u00e9 (Saint-Martin-de-R\u00e9)",
+                "stage_url": "race/tour-de-france/2020/stage-10"
+            },
+            {
+                "date": "09-09",
+                "distance": 166.5,
+                "profile_icon": "p1",
+                "stage_name": "Stage 11 | Ch\u00e2telaillon-Plage - Poitiers",
+                "stage_url": "race/tour-de-france/2020/stage-11"
+            },
+            {
+                "date": "09-10",
+                "distance": 218.0,
+                "profile_icon": "p3",
+                "stage_name": "Stage 12 | Chauvigny - Sarran",
+                "stage_url": "race/tour-de-france/2020/stage-12"
+            },
+            {
+                "date": "09-11",
+                "distance": 191.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 13 | Ch\u00e2tel-Guyon - Pas de Peyrol (Le Puy Mary)",
+                "stage_url": "race/tour-de-france/2020/stage-13"
+            },
+            {
+                "date": "09-12",
+                "distance": 194.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 14 | Clermont-Ferrand - Lyon",
+                "stage_url": "race/tour-de-france/2020/stage-14"
+            },
+            {
+                "date": "09-13",
+                "distance": 174.5,
+                "profile_icon": "p5",
+                "stage_name": "Stage 15 | Lyon - Grand Colombier",
+                "stage_url": "race/tour-de-france/2020/stage-15"
+            },
+            {
+                "date": "09-15",
+                "distance": 164.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 16 | La Tour-du-Pin - Villard-de-Lans",
+                "stage_url": "race/tour-de-france/2020/stage-16"
+            },
+            {
+                "date": "09-16",
+                "distance": 170.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 17 | Grenoble - M\u00e9ribel - Col de la Loze",
+                "stage_url": "race/tour-de-france/2020/stage-17"
+            },
+            {
+                "date": "09-17",
+                "distance": 175.0,
+                "profile_icon": "p4",
+                "stage_name": "Stage 18 | M\u00e9ribel - La Roche-sur-Foron",
+                "stage_url": "race/tour-de-france/2020/stage-18"
+            },
+            {
+                "date": "09-18",
+                "distance": 166.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 19 | Bourg-en-Bresse - Champagnole",
+                "stage_url": "race/tour-de-france/2020/stage-19"
+            },
+            {
+                "date": "09-19",
+                "distance": 36.2,
+                "profile_icon": "p5",
+                "stage_name": "Stage 20 (ITT) | Lure - La Planche des Belles Filles",
+                "stage_url": "race/tour-de-france/2020/stage-20"
+            },
+            {
+                "date": "09-20",
+                "distance": 122.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 21 | Mantes-la-Jolie - Paris",
+                "stage_url": "race/tour-de-france/2020/stage-21"
+            }
+        ],
+        "startdate": "2020-08-29",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Tour de Pologne": {
+        "category": "Men Elite",
+        "edition": 77,
+        "enddate": "2020-08-09",
+        "is_one_day_race": false,
+        "name": "Tour de Pologne",
+        "nationality": "PL",
+        "normalized_relative_url": "race/tour-de-pologne/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "08-05",
+                "distance": 195.8,
+                "profile_icon": "p2",
+                "stage_name": "Stage 1 | Stadion \u015al\u0105ski - Katowice",
+                "stage_url": "race/tour-de-pologne/2020/stage-1"
+            },
+            {
+                "date": "08-06",
+                "distance": 151.5,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Opole - Zabrze",
+                "stage_url": "race/tour-de-pologne/2020/stage-2"
+            },
+            {
+                "date": "08-07",
+                "distance": 203.1,
+                "profile_icon": "p3",
+                "stage_name": "Stage 3 | Wadowice - Bielsko-Bia\u0142a",
+                "stage_url": "race/tour-de-pologne/2020/stage-3"
+            },
+            {
+                "date": "08-08",
+                "distance": 152.9,
+                "profile_icon": "p3",
+                "stage_name": "Stage 4 | Bukovina Resort - Bukowina Tatrza\u0144ska",
+                "stage_url": "race/tour-de-pologne/2020/stage-4"
+            },
+            {
+                "date": "08-09",
+                "distance": 188.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 5 | Zakopane - Krak\u00f3w",
+                "stage_url": "race/tour-de-pologne/2020/stage-5"
+            }
+        ],
+        "startdate": "2020-08-05",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Tour de Romandie": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-05-03",
+        "is_one_day_race": true,
+        "name": "Tour de Romandie",
+        "nationality": "CH",
+        "normalized_relative_url": "race/tour-de-romandie/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-04-28",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "Tour de Suisse": {
+        "category": "Men Elite",
+        "edition": null,
+        "enddate": "2020-06-14",
+        "is_one_day_race": true,
+        "name": "Tour de Suisse",
+        "nationality": "CH",
+        "normalized_relative_url": "race/tour-de-suisse/2020/overview",
+        "prev_editions_select": null,
+        "stages": [],
+        "startdate": "2020-06-07",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    },
+    "UAE Tour": {
+        "category": "Men Elite",
+        "edition": 2,
+        "enddate": "2020-02-27",
+        "is_one_day_race": false,
+        "name": "UAE Tour",
+        "nationality": "AE",
+        "normalized_relative_url": "race/uae-tour/2020/overview",
+        "prev_editions_select": null,
+        "stages": [
+            {
+                "date": "02-23",
+                "distance": 148.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 1 | The Pointe  - Dubai Silicon Oasis",
+                "stage_url": "race/uae-tour/2020/stage-1"
+            },
+            {
+                "date": "02-24",
+                "distance": 168.0,
+                "profile_icon": "p2",
+                "stage_name": "Stage 2 | Hatta - Hatta Dam",
+                "stage_url": "race/uae-tour/2020/stage-2"
+            },
+            {
+                "date": "02-25",
+                "distance": 184.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 3 | Al Qudra Cycle Track  - Jebel Hafeet ",
+                "stage_url": "race/uae-tour/2020/stage-3"
+            },
+            {
+                "date": "02-26",
+                "distance": 173.0,
+                "profile_icon": "p1",
+                "stage_name": "Stage 4 | Zabeel Park  - Dubai City Walk",
+                "stage_url": "race/uae-tour/2020/stage-4"
+            },
+            {
+                "date": "02-27",
+                "distance": 162.0,
+                "profile_icon": "p5",
+                "stage_name": "Stage 5 | Al Ain - Jebel Hafeet ",
+                "stage_url": "race/uae-tour/2020/stage-5"
+            }
+        ],
+        "startdate": "2020-02-23",
+        "uci_tour": "UCI Worldtour",
+        "year": 2020
+    }
+}
