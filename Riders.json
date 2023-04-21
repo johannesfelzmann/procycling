@@ -1,5 +1,5 @@
 {
-   "Abner  Gonz\u00e1lez":[
+   "Abner  Gonz\u00e1lez":{
       "birthdate":"2000-10-9",
       "height":1.74,
       "name":"Abner  Gonz\u00e1lez",
@@ -70,7 +70,7 @@
          }
       ],
       "weight":60
-   ],
+   },
    "Adam  Yates":{
       "birthdate":"1992-8-7",
       "height":1.73,
